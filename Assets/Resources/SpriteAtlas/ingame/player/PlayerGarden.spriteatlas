@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerGarden
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fdcfaede0dd63da4783af8fe0c544b8b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8f738b907357f7f46ac6b18421b273ef, type: 3}
+  - {fileID: 21300000, guid: 9a15fca0c3ff8b74f84799b00f3c3eb8, type: 3}
+  - {fileID: 21300000, guid: 6017dd413ff0a6b4598bc280f0580e66, type: 3}
+  - {fileID: 21300000, guid: 95b35a71dc1f1a94f94b66cd6e539f53, type: 3}
+  - {fileID: 21300000, guid: 0d52ef91f15262547bbcf21094959e67, type: 3}
+  - {fileID: 21300000, guid: a5440f721a0e1da4dbfc34aed506d300, type: 3}
+  - {fileID: 21300000, guid: 04393d9226249bb43910fb11742a0376, type: 3}
+  - {fileID: 21300000, guid: e22427d235a57b445812366f67d8bcdf, type: 3}
+  - {fileID: 21300000, guid: bb274f731aeff3e44aaf6327bfa55f85, type: 3}
+  - {fileID: 21300000, guid: 030a5514bd838f149908e7fae393b0b3, type: 3}
+  - {fileID: 21300000, guid: 9ee57d443a2a60a4891df3da21077627, type: 3}
+  - {fileID: 21300000, guid: dbc55235d2b824640a407ffcfa0a1d96, type: 3}
+  - {fileID: 21300000, guid: 47c010957b351c44c81a3fa2bd972012, type: 3}
+  - {fileID: 21300000, guid: ffe62ac66cbcd5c41b909f73999665a9, type: 3}
+  - {fileID: 21300000, guid: 83dd1d88ac4c2644989af03d020ab261, type: 3}
+  - {fileID: 21300000, guid: cd3bda890c95ef74d82b65f0a1f425a9, type: 3}
+  - {fileID: 21300000, guid: af59c02a48d9614439e3eae28798c1a2, type: 3}
+  - {fileID: 21300000, guid: c2d9f87b275ad77498d18f511e55dac7, type: 3}
+  - {fileID: 21300000, guid: 956eb2bb56a33564db9c54717ea1916d, type: 3}
+  - {fileID: 21300000, guid: c11d54bb39ce7334494086cde5b434fc, type: 3}
+  - {fileID: 21300000, guid: d4b86f4cf05fe8e4db298e32620324de, type: 3}
+  - {fileID: 21300000, guid: 7dfaa83dd4b5c5046ab24dd281b272b7, type: 3}
+  - {fileID: 21300000, guid: 76f3217d407bebc4cad23adbd0585b76, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mailbox_open
+  - Fence_Front_Left
+  - Background
+  - Skyline_Parallax
+  - Tires
+  - Watering_Can_Fill_01
+  - Watering_Can_Fill_02
+  - Crowbar_small
+  - Mail
+  - Mailbox_closed
+  - Door_Overlay
+  - Hose
+  - Trash_Open
+  - Trash
+  - Fence_Back_Left
+  - Fence_Back
+  - Door_Open
+  - Trash_Closed
+  - Fence_Front
+  - Car_Trunk_Open
+  - House
+  - Door_closed
+  - Car_Trunk_Closed
+  m_RenderDataMap: {}
+  m_Tag: PlayerGarden
+  m_IsVariant: 0

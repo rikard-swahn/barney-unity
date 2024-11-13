@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BedroomNight
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7f37afb790c07cd498aa2ac6ec3bef54, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7b47e400aabb62b4eb9f40a58b6f7be2, type: 3}
+  - {fileID: 21300000, guid: 2da839701f99f104b9082f41805b063c, type: 3}
+  - {fileID: 21300000, guid: bb32ca707c893a946bb4406921af7838, type: 3}
+  - {fileID: 21300000, guid: e55337a0d15c0f04cb97ad833e16d7d2, type: 3}
+  - {fileID: 21300000, guid: 2f7074b0e9ed6974b82c9c9948cea5c4, type: 3}
+  - {fileID: 21300000, guid: 6ed765d07ad5a914f8d336f76a5ed42a, type: 3}
+  - {fileID: 21300000, guid: 48df90a17f7d9d14b9b0e7f805d49bdb, type: 3}
+  - {fileID: 21300000, guid: bb9977e1c98edd34195616da1afab3de, type: 3}
+  - {fileID: 21300000, guid: 7a1dd9f13bf71cc429f7fbf3b15d80ef, type: 3}
+  - {fileID: 21300000, guid: cc5746a322d65144e9fa8c67d0c2a57d, type: 3}
+  - {fileID: 21300000, guid: 733f99a38f3e10147818dc6499140598, type: 3}
+  - {fileID: 21300000, guid: 6909f4c39aca5374a9c643fb369d89a9, type: 3}
+  - {fileID: 21300000, guid: 80e49a64b0c08864697cef981a05a8f2, type: 3}
+  - {fileID: 21300000, guid: e6cda5d4344202c4ab3481ea31f21b4a, type: 3}
+  - {fileID: 21300000, guid: a77b81354c50055429bf65cb10547b70, type: 3}
+  - {fileID: 21300000, guid: c2903f45f4fd5d1438b52a2b2ac30587, type: 3}
+  - {fileID: 21300000, guid: 78948155bfb4ce54b9d1616e7ebfcab0, type: 3}
+  - {fileID: 21300000, guid: 83e330d5d6d2cce49b086f492028e02d, type: 3}
+  - {fileID: 21300000, guid: e01ea9d5d85475d4fa892cb490474b47, type: 3}
+  - {fileID: 21300000, guid: eec3fdd55e9c51a40ab056d5e6c0fcd8, type: 3}
+  - {fileID: 21300000, guid: 4d7891e5917556744b366fab4bf90206, type: 3}
+  - {fileID: 21300000, guid: 2bf01046ef9c2ac4380b733e9e891758, type: 3}
+  - {fileID: 21300000, guid: d834f9a6fb6b1684783e059644ed3000, type: 3}
+  - {fileID: 21300000, guid: f85b58c66578bcc46a33391cc90be940, type: 3}
+  - {fileID: 21300000, guid: 66ff0cd635cf048409cffc6aceadce8d, type: 3}
+  - {fileID: 21300000, guid: 3905d3e644be41c438a0d1496ace3a56, type: 3}
+  - {fileID: 21300000, guid: 25141e677d7e7cc439e4bd2f9039cd73, type: 3}
+  - {fileID: 21300000, guid: a0f9d108730369648b9f7f3f650d6d55, type: 3}
+  - {fileID: 21300000, guid: d88dbb089313e5b49a62fa01d15b45cc, type: 3}
+  - {fileID: 21300000, guid: ca8b4f0810e3bb0498371ac6d2ba5558, type: 3}
+  - {fileID: 21300000, guid: 1807e77806145c04fad39af23eaeaeee, type: 3}
+  - {fileID: 21300000, guid: 9f4ecee8487ec90419f02cd8a0fb2ed5, type: 3}
+  - {fileID: 21300000, guid: 6d9cea198036e5942999fe5863fac30a, type: 3}
+  - {fileID: 21300000, guid: 5519f149195329c4aa27358777ac6baf, type: 3}
+  - {fileID: 21300000, guid: f1b7a8a99f94e9140a0fdc71b15c5c54, type: 3}
+  - {fileID: 21300000, guid: bb596de9a0a54d44e87e041fcef1e3b6, type: 3}
+  - {fileID: 21300000, guid: 90a18bf9112e9c548bd12d138d355d23, type: 3}
+  - {fileID: 21300000, guid: 3db9eb1b13cce864a8b225141c00b8cb, type: 3}
+  - {fileID: 21300000, guid: 16d8273b2a944d743980c4271ab7a58c, type: 3}
+  - {fileID: 21300000, guid: 8509654baf86cf1428c0bf07dcd8838b, type: 3}
+  - {fileID: 21300000, guid: d08ba2dbc260c774686a6d1894fd3f88, type: 3}
+  - {fileID: 21300000, guid: 5803da0c96f493541bdcb6163a77072a, type: 3}
+  - {fileID: 21300000, guid: ba414fcc8d8659743838c8d68ebd0c27, type: 3}
+  - {fileID: 21300000, guid: dd0e215d07190414bb9c8f245383d24e, type: 3}
+  - {fileID: 21300000, guid: 5c72bc7dce0154e42a29b6ea1d08c5ab, type: 3}
+  - {fileID: 21300000, guid: 28552b9dd87b0324c83f80eb40a43b75, type: 3}
+  - {fileID: 21300000, guid: ec4cf5adc6617f24490d97784d3e5d23, type: 3}
+  - {fileID: 21300000, guid: ff94defd2b317d64aa0039b110178506, type: 3}
+  - {fileID: 21300000, guid: 5f359cde6ba9df04c9e730729b387f9c, type: 3}
+  - {fileID: 21300000, guid: 6847877f843cb834c81c27ddf95bc016, type: 3}
+  - {fileID: 21300000, guid: 3e103ccfcd8d6874898a83b3ed020d40, type: 3}
+  - {fileID: 21300000, guid: 71bcd7df6f6e22f4bad916adf8f98cb5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Dream_animation_32
+  - Dream_animation_14
+  - Dream_animation_30
+  - Dream_animation_07
+  - Dream_animation_16
+  - Barney_Awake_02
+  - Sleeping_03
+  - Dream_animation_25
+  - Sleeping_02
+  - Dream_animation_04
+  - Dream_animation_09
+  - Dream_animation_39
+  - Dream_animation_31
+  - Dream_animation_36
+  - Dream_animation_24
+  - Dream_animation_03
+  - Barney_Awake_01
+  - Dream_animation_13
+  - Dream_animation_11
+  - Dream_animation_18
+  - Dream_animation_23
+  - Dream_animation_35
+  - Dream_animation_26
+  - Sleeping_04
+  - Sleeping_05
+  - Bed
+  - Dream_animation_38
+  - Dream_animation_10
+  - Dream_animation_01
+  - Dream_animation_40
+  - Player_Awake
+  - Barney_Awake_03
+  - Dream_animation_28
+  - Dream_animation_19
+  - Sleeping_06
+  - Dream_animation_34
+  - Dream_animation_17
+  - Dream_animation_12
+  - Dream_animation_15
+  - Dream_animation_02
+  - Background_Night
+  - Dream_animation_29
+  - Dream_animation_37
+  - Dream_animation_08
+  - Dream_animation_20
+  - Sleeping_01
+  - Dream_animation_33
+  - Dream_animation_05
+  - Dream_animation_27
+  - Dream_animation_21
+  - Dream_animation_22
+  - Dream_animation_06
+  m_RenderDataMap: {}
+  m_Tag: BedroomNight
+  m_IsVariant: 0

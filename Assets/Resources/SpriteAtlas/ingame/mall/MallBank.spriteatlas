@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MallBank
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 51c5093be7b79494090d95465e05cec0, type: 3}
+    - {fileID: 102900000, guid: 725fdaad4bafe914983a4a4b50a896fa, type: 3}
+    - {fileID: 102900000, guid: 65a3209e4eefd0144a6ed89fd5c5482c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c11ccbc0f7ea96a479b0d1010961f59f, type: 3}
+  - {fileID: 21300000, guid: e8904fe0fe96e1d43859524d6504d39d, type: 3}
+  - {fileID: 21300000, guid: 9dbd815188a1c554f85e96d84cddfeec, type: 3}
+  - {fileID: 21300000, guid: 6f5ac8619637fb94d9ac0fec020f7874, type: 3}
+  - {fileID: 21300000, guid: f084d3e299cd6db4794737dd49887a73, type: 3}
+  - {fileID: 21300000, guid: 3b39bcf2fa3c13e44bb49f468cbfc49e, type: 3}
+  - {fileID: 21300000, guid: 2d69b833a8388c34598787c59b2492cf, type: 3}
+  - {fileID: 21300000, guid: f31f4d44d8124b04a972ed0d302a4092, type: 3}
+  - {fileID: 21300000, guid: 434fb6940e1583f408d1e539b11d177b, type: 3}
+  - {fileID: 21300000, guid: ef1b7ba5b9dd75e4795803aef24e7591, type: 3}
+  - {fileID: 21300000, guid: ef13039633a7e47458f31c22b021db5d, type: 3}
+  - {fileID: 21300000, guid: b71cdcf6eb54f124fba352e28dd9e37d, type: 3}
+  - {fileID: 21300000, guid: 504b17b7ec5b8894895d0d879719b469, type: 3}
+  - {fileID: 21300000, guid: 7611a8c78f20e3041bf229f5934f90a6, type: 3}
+  - {fileID: 21300000, guid: 442a14f7dc4e1d94291eb2d8f3626f16, type: 3}
+  - {fileID: 21300000, guid: afb90338e14a5e143b729787172d7f89, type: 3}
+  - {fileID: 21300000, guid: 3d6c80989ceba95449719f99029462a2, type: 3}
+  - {fileID: 21300000, guid: 9a43cc693b861214a9912d0f86654f7d, type: 3}
+  - {fileID: 21300000, guid: f4734dd99181c3d449a0836a079aaa5e, type: 3}
+  - {fileID: 21300000, guid: af4d8e7aa6be87a4188a84f4d31fc379, type: 3}
+  - {fileID: 21300000, guid: f0ada2da2b24a844abec4b0d9d6b8000, type: 3}
+  - {fileID: 21300000, guid: 7b2ab91bdb992f34a8a832e4bef42670, type: 3}
+  - {fileID: 21300000, guid: 18baa32b4b5faa443aaae1bedab14e84, type: 3}
+  - {fileID: 21300000, guid: 75462d6beb83aa7448546da8e7244f2a, type: 3}
+  - {fileID: 21300000, guid: 48a025cc8190b6b439ef5fe731609397, type: 3}
+  - {fileID: 21300000, guid: 05392eccf9b8a9246a29f020585f08b9, type: 3}
+  - {fileID: 21300000, guid: 5963224dcca25934798e3d808ee5b587, type: 3}
+  - {fileID: 21300000, guid: 8edda16eb6edc5641848cf174415d086, type: 3}
+  - {fileID: 21300000, guid: d8f0db6ec94f07d4abed4613ec5de0aa, type: 3}
+  - {fileID: 21300000, guid: 3844378e792997143b7e81930621d4fc, type: 3}
+  - {fileID: 21300000, guid: bf3961befcf1fda4c8f5aa6d414e349b, type: 3}
+  - {fileID: 21300000, guid: d31a52efd37595a4da77d2e2689e8c97, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bank_OldLady_WalkEast_01
+  - Bank_OldLady
+  - Bank_Clerk_Talk_03
+  - Bank_OldLady_Talk_02
+  - Bank_OldLady_Talk_03
+  - Counter
+  - Bank_OldLady_Talk_04
+  - Bank_OldLady_WalkEast_04
+  - Trash
+  - Bank_OldLady_WalkEast_02
+  - Bank_Clerk_Talk_01
+  - Bank_Clerk_Hand_Action_02
+  - Bank_Clerk_Tie_04
+  - Bank_Clerk_Talk_04
+  - Bank_OldLady_WalkEast_03
+  - Chairs
+  - Bank_Clerk_Hand_Action_03
+  - Bank_OldLady_Action
+  - Bank_Clerk_Talk_02
+  - Bank_OldLady_WalkEast_05
+  - Bank_Clerk_Tie_01
+  - Background
+  - Check
+  - Sheet_Of_Stamps
+  - Bank_Clerk_Tie_02
+  - Bank_Clerk_Hand_Action_04
+  - Bank_OldLady_WalkEast_06
+  - Bank_OldLady_North
+  - Bank_OldLady_Talk_01
+  - Bank_Clerk
+  - Bank_Clerk_Hand_Action_01
+  - Bank_Clerk_Tie_03
+  m_RenderDataMap: {}
+  m_Tag: MallBank
+  m_IsVariant: 0

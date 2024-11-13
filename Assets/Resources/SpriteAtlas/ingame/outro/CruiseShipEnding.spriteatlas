@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CruiseShipEnding
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 36fafeed342bf7b4f9ce8ab5acd2b5f7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1de58162fc3fa4f42bcee297b0a19c0d, type: 3}
+  - {fileID: 21300000, guid: 318d677366936714096fb354dfe9f856, type: 3}
+  - {fileID: 21300000, guid: 9db74cb55e6b3d04aaa971ee978b39b1, type: 3}
+  - {fileID: 21300000, guid: 416a4f266d458944fb282f2160118cb6, type: 3}
+  - {fileID: 21300000, guid: 81354b96ddd403a46bb24520e0edc473, type: 3}
+  - {fileID: 21300000, guid: f5c01627a3925d44482e605dbf103854, type: 3}
+  - {fileID: 21300000, guid: ed0953ebd3fb846408ea22c9323c1032, type: 3}
+  - {fileID: 21300000, guid: 365aa2be05d5f114eba9a3b7ccc2c910, type: 3}
+  - {fileID: 21300000, guid: 691f712f13ac88d4f95d4812fd3db34c, type: 3}
+  - {fileID: 21300000, guid: 6125784f6bbc3c04899e91ce95c6304f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ship_Sunset_Smoke_04
+  - Ship_Sunset_Hearts_03
+  - Ship_Sunset_Hearts_04
+  - Ship_Sunset_Hearts_01
+  - Ship_Sunset_Smoke_02
+  - Ship_Sunset_Smoke_05
+  - Ship_Sunset_Hearts_02
+  - Ship_Sunset_Hearts_05
+  - Ship_Sunset_Smoke_03
+  - Ship_Sunset_Smoke_01
+  m_RenderDataMap: {}
+  m_Tag: CruiseShipEnding
+  m_IsVariant: 0

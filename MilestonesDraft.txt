@@ -1,0 +1,126 @@
+ ******* Milestone 1  ******** 
+$300
+
+For publishing to Google Play, App Store and Steam, I need a number of assets, all pngs.
+
+=== Splash screen ===
+When the game starts, there is a mandatory splash screen because of the game engine I use (Unity).
+I would like to your input on if it can be customized a bit to look nicer and fit with the game. 
+(And also to draw new assets if needed)
+It can be customized in a few ways:
+- A custom background image can be set, but it has blur in it which can not be disabled.
+  I was thinking to have the red curtains as a background perhaps, but I am skeptical of the blur effect on a pixel art game.
+  A solid background color can also be set.
+- The time the splash screens shows can be customized between 2-10 seconds. I think the shorter the better, 2 seconds are enough.  
+- A custom logo can be added that appears over the unity logo. I have no logo for my company (as I have no company), 
+  but maybe just the face of Barney or something?
+I have experimented a bit, and maybe just a solid dark grey (almost black) as background and 
+Barney's face as logo could work? 
+Example: splash.mp4
+I would like your opinion here though, please dimiss my ideas if you do not like them :)
+  
+
+==== For Google Play ======================
+=== ICONS ===
+- Store icon, 512x512px. Shown on app store. Shape: Square, no shadow. 
+Shadow and rounding is added automatically (rounding radius will be equivalent to 20% of icon size).
+So have some empty space around the edges.
+Like this: https://developer.android.com/google-play/resources/icon-design-specifications/images/dynamic-process.png
+Photoshop template: https://services.google.com/fh/files/misc/playstore_icon_template.psd.zip
+Example: Android-StoreIcon.png
+Maybe Barney's face? See icon.png (but not a flat color background)
+
+== Launcher icons ==
+Launcher icons should be very similar to the store icon.
+(The store icon might have some extra details due to resolution though).
+There are two types of launcher icons in Android:
+
+1) Legacy format icons. These are square with pixel sizes: 192,144,96,72,48,36
+  As iOS does not allow transparency, do not add it here either.
+2) Adaptive icons. Adaptive icons are a new thing in android which requires a separate background and foreground. 
+This page shows how the different ways it can then be rendered on different devices: https://adapticon.tooo.io/#/bg=https://i.imgur.com/iqGpQCh.png/fg=https://i.imgur.com/jceH9gr.png (The "S" there is the foreground)
+The background can not have transparency (foreground can have it). 
+Pixel sizes: 432,324,216,162,108,81. So each pixel size has one background png and one foreground png.
+(Barney's face with transparency around would be the foreground image for example).
+ 
+=== Feature graphic ===
+1024x500px. Shown beside the screenshots of the game, and when clicked, video of the game is shown.
+Example: Android-Feature_Graphic.jpg
+===========================================
+
+
+==== For Apple App Store ======================
+=== ICONS ===
+- Store icon, 1024x1024px. Shown on app store. 
+  Same as Android Store icon, but larger.
+
+== Launcher icons ==
+Square shape, no transparency.
+- Sizes: 120,180,152,167
+  Same as Android Legacy icons (but other sizes)
+
+== Spotlight icons
+- Sizes: 80px (and 120px, but use same as 120 px launcher icon)
+  Same as launcher icons (but other size)
+
+=== Launch screen ===
+iOS has a static image that is shown instantly on launch, before the "Splash screen" mentioned above.
+The launch screen should be similar to the splash screen background because of this. 
+If the launch screen has a flat colored background, the launch screen would just be that flat color.
+Apple reequires the launch screen should be provided in 16 different sizes too, so 
+I think it would be nice to just keep this simple, with a flat color if possible.
+If you want to read more about launch screens: https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/launch-screen/
+===============================================
+
+==== For Steam ===========================
+(I have copied text descriptions from Steam below) 
+
+- Header capsule image 
+Design: This image should focus on the branding of your product. For best results, please use the same artwork that you use for any retail box or marketing and make sure the logo is clearly legible.
+Usage: It will appear at the top of your page in the store, in the 'recommended for you' section, in 'grid view' in customers libraries in the Steam client, in browse views on Big Picture mode, and for daily deals if applicable.
+Sizes: Please provide '460px x 215px' . A '292px x 136px' image will be automatically generated from this.
+Example: Steam-HeaderCapsule.png (marked with red square).    
+  
+- Small capsule image
+Design: These are small, so they should focus on making the logo clearly legible, even at the smallest size.
+Usage: These are used for all the lists throughout Steam. Search results, top-sellers, new releases, etc. 
+Sizes: Please provide '231px x 87px' image. From that, two smaller sizes (120x45 and 184x69) capsules are automatically generated.
+Example: Steam-SmallCapsule.png
+  
+- Large capsule image
+Design: These should be designed to market the product. For best results, please use the key art and logo that is being used for any retail boxes or marketing. Avoid using quotes or other strings of text beyond the title of your game
+Usage: These appear at the top of genre and publisher pages and ocassionally on special promotional pages.
+Sizes: Please provide '467px x 181px'.
+Example: Steam-LargeCapsule.png
+  
+- Main capsule image
+Design: These should be designed to market the product. For best results, please use the key art and logo that is being used for any retail boxes or marketing. Avoid using quotes or other strings of text beyond the title of your game
+Usage: These appear at the top of the front page.
+Sizes: Please provide '616px x 353px'.
+Example: Steam-MainCapsule.png
+Design ideas for all capsule images: Not sure really, but I want the some of the art style to show, that 
+it is pixel art, and maybe some of the faces of characters from the game?
+
+- Page Background
+Design: This should be ambient so as not to compete with the content on the page, so try to avoid high-contrast images or images with lots of text. A template will automatically be applied to your uploaded file, which will tint it blue and fade out the edges. If you don't upload an image here, we'll automatically take the last screenshot and generate a background image from that.
+Usage: This is the image that will be used in the background of your store page.
+Sizes: 1438x810px
+NOTE: That a filter will be applied which changes the appearance. The example shows the filter applied and the original in the corner.
+Example: Steam-PageBackground.png
+Design idea: The sea and Cruise image maybe? Like the main menu looks without the buttons on top.
+
+Photoshop templates: https://partner.steamgames.com/public/marketing/game_page_templates_v3.zip
+===========================================
+
+
+******** Milestone 2 ********
+$60
+- I decided I want the "TO DO"-list (the handwritten note) a inventory item instead of a separate button.
+See attachment: TO-DO-list-screenshot.png. Because of this, it should have the same size as other inv items: 32x32px, with
+some whitespace around. Something like in the attached ToDoList.png.
+- I think I want another icon for the pause menu. Instead of the pause icon, maybe the more standard three horizontal lines: https://www.iconfinder.com/icons/2726308/dashboard_home_main_menu_icon
+- The left and right buttons on the sides of the inventory items, could you change them to be solid triangles instead?
+  Maybe something like in the attached Right_Arrow.png (not sure about the added shadow lines though).
+
+
+

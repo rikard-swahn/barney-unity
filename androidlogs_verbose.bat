@@ -1,0 +1,1 @@
+adb logcat -s Unity dalvikvm ActivityManager PackageManager DEBUG

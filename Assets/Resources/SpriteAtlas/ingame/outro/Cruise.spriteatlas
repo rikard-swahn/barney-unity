@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cruise
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0ff12a4e972fde340ad611767bff2b1d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 90b41a11e6de10d438cc4ff3b73f1294, type: 3}
+  - {fileID: 21300000, guid: 35fab2220cd12e24d864e0937665139a, type: 3}
+  - {fileID: 21300000, guid: 5950bdf22321f0444af986c2aa5236f3, type: 3}
+  - {fileID: 21300000, guid: a01c3033cd0ad0e43a50ce1bf07a69d0, type: 3}
+  - {fileID: 21300000, guid: 3a4901337742dc84c80a453482c20a91, type: 3}
+  - {fileID: 21300000, guid: 08abb7b3afdf4984ea040b086112cadd, type: 3}
+  - {fileID: 21300000, guid: f3af3e75d1588f444b61eca26a40a788, type: 3}
+  - {fileID: 21300000, guid: 15b2c9a62eeb01f4c82cddf01e7696b9, type: 3}
+  - {fileID: 21300000, guid: 41bb1947864542341945b04971df6772, type: 3}
+  - {fileID: 21300000, guid: 35f2fc2838129e546a60831803ab4348, type: 3}
+  - {fileID: 21300000, guid: 8c448ab889075d04792db2fb9d4a79b2, type: 3}
+  - {fileID: 21300000, guid: cc72ccb893f944c4e87cb4b38e73221a, type: 3}
+  - {fileID: 21300000, guid: 00f666d838a744f49ab9dfc464fb4552, type: 3}
+  - {fileID: 21300000, guid: f8f42d2913082e648a68b3a67daef81a, type: 3}
+  - {fileID: 21300000, guid: 744d2b0aaa185fa4a9878f7fdaea2ac8, type: 3}
+  - {fileID: 21300000, guid: e373e62b286ab5c4495e618280f5b226, type: 3}
+  - {fileID: 21300000, guid: 7ac82b5bfaad5a546ade0e2fd42645ba, type: 3}
+  - {fileID: 21300000, guid: 61f2577bfa9d52549a2ce097ac713b86, type: 3}
+  - {fileID: 21300000, guid: 1666ac8b12413e143be94d79d2c717e1, type: 3}
+  - {fileID: 21300000, guid: 23da49ab9990e344489992f3cbb7af25, type: 3}
+  - {fileID: 21300000, guid: 44f5bfcb0ed333f499cfbfc5fbe26068, type: 3}
+  - {fileID: 21300000, guid: ccd7144d26bdec449876314bbed0d898, type: 3}
+  - {fileID: 21300000, guid: e657cb5d815ccd94b90fa0819f1f8077, type: 3}
+  - {fileID: 21300000, guid: f553a86df5399d1489c31a6758396eb5, type: 3}
+  - {fileID: 21300000, guid: afbbecadd90ea09499d5353cfc71b8f4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Barney_Curtains_06
+  - Cruise_Cabin_02
+  - Cruise_Cabin
+  - Barney_Curtains_03
+  - Barney_Curtains_04
+  - Cabinet
+  - Barney_Curtains_07
+  - Cruise_Cabin_07
+  - Barney_Curtains_13
+  - Barney_Curtains_08
+  - Cruise_Cabin_03
+  - Barney_Curtains_09
+  - Door_Overlay
+  - Cruise_Cabin_01
+  - Cruise_Cabin_04
+  - Barney_Curtains_02
+  - Barney_Curtains_01
+  - Cruise_Cabin_05
+  - Cruise_Cabin_08
+  - Barney_Curtains_12
+  - Barney_Curtains_11
+  - Cruise_Cabin_06
+  - Barney_Curtains_10
+  - Cruise_Cabin_09
+  - Barney_Curtains_05
+  m_RenderDataMap: {}
+  m_Tag: Cruise
+  m_IsVariant: 0

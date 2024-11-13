@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GyroWorkshop
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5fd5282abf025c543a26031b7c163325, type: 3}
+    - {fileID: 102900000, guid: b066516e3e08f0d4fb7e5b4e89b0c1b7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 45435320807a0324980c4dae24a69fc8, type: 3}
+  - {fileID: 21300000, guid: c88167d174d142e4e8576659b4ac8051, type: 3}
+  - {fileID: 21300000, guid: c9b9c7f1d7dd6634d9fbe356de1c373f, type: 3}
+  - {fileID: 21300000, guid: 489540226be96d448a8fa30765034514, type: 3}
+  - {fileID: 21300000, guid: d784db227a06b2f46ba971f6ab6b1087, type: 3}
+  - {fileID: 21300000, guid: b41194324347a044ba37e6d064580283, type: 3}
+  - {fileID: 21300000, guid: 9e15a562a2a17e0409d8afd8c4ba5a7c, type: 3}
+  - {fileID: 21300000, guid: bf97f2e24be909b44a935a75e38ff974, type: 3}
+  - {fileID: 21300000, guid: d024bde2981dd6f4caf0d983157c1478, type: 3}
+  - {fileID: 21300000, guid: 39c8fea3958cdfd4a94dfc9f885a427d, type: 3}
+  - {fileID: 21300000, guid: 170f2dc3bcf4ec84dba2281c570fd27d, type: 3}
+  - {fileID: 21300000, guid: 12d29d04102ee21428080e2b523af4fa, type: 3}
+  - {fileID: 21300000, guid: c924bf04b2fccc442b089fb15a3fdb55, type: 3}
+  - {fileID: 21300000, guid: c30a0534c3c4f9f468933b2a9ef9a557, type: 3}
+  - {fileID: 21300000, guid: 9f121534431b65044937d4b7d04357be, type: 3}
+  - {fileID: 21300000, guid: 6fe9838471826254aab1559ec25a3cbf, type: 3}
+  - {fileID: 21300000, guid: 091753a4649fc064c9c5be832be02f08, type: 3}
+  - {fileID: 21300000, guid: 1de84df408beeff49933858f9a5cbb0d, type: 3}
+  - {fileID: 21300000, guid: 3890747522faee14aab8cfc4f44d8201, type: 3}
+  - {fileID: 21300000, guid: c42e77b534e711f48befb3a7f9662cca, type: 3}
+  - {fileID: 21300000, guid: 3d6cc3f53755a1046b5379aa628a8e88, type: 3}
+  - {fileID: 21300000, guid: f925a7f5562db314a876bb2307b42620, type: 3}
+  - {fileID: 21300000, guid: 99cc8506864d28f4eaf7ae58c7c7f65c, type: 3}
+  - {fileID: 21300000, guid: 64ae3136d8eb869448b60d4e86429fca, type: 3}
+  - {fileID: 21300000, guid: e7196d3641524d64b964aa606dc35f50, type: 3}
+  - {fileID: 21300000, guid: 57a3b4760f3ba1946a1f1f2484f6c8fa, type: 3}
+  - {fileID: 21300000, guid: 64fbf786a22f4e84ba38c915cd2bffb5, type: 3}
+  - {fileID: 21300000, guid: dc3f19c6053fb6e4d9f5f407d2363b89, type: 3}
+  - {fileID: 21300000, guid: c6f3f9d69bd78c840b68c2cad85b5d6e, type: 3}
+  - {fileID: 21300000, guid: b055e7e66c7c0b446b78299453a958ee, type: 3}
+  - {fileID: 21300000, guid: abd4370730357c04eb3844112fdf9d30, type: 3}
+  - {fileID: 21300000, guid: a415b66706064644dbcadf997cf43e0f, type: 3}
+  - {fileID: 21300000, guid: 2dbfebb7f74e2ae4bb0e126533b8c439, type: 3}
+  - {fileID: 21300000, guid: 0b5072c7243d96f4193c64094f4542dc, type: 3}
+  - {fileID: 21300000, guid: 3bce3ae70d50f2849b7492b0eb16368e, type: 3}
+  - {fileID: 21300000, guid: e1a123f79924b0a47885645598a9b0af, type: 3}
+  - {fileID: 21300000, guid: 501376f7f44da954f86dfb76e64e1a53, type: 3}
+  - {fileID: 21300000, guid: 8aea93582f779c549881037874d294ae, type: 3}
+  - {fileID: 21300000, guid: 8d23f06879c45af4496b3d6ea116bdbc, type: 3}
+  - {fileID: 21300000, guid: 3363dc68ba35ab647b30dd1178313c20, type: 3}
+  - {fileID: 21300000, guid: 583751e8fd40e084189622d88f09e8cc, type: 3}
+  - {fileID: 21300000, guid: 744005e830a177a4aba10968a210f225, type: 3}
+  - {fileID: 21300000, guid: 8e8821397a15a1a47a232bdca2685977, type: 3}
+  - {fileID: 21300000, guid: 1d1b3149218dfff4eb021b9de20e5c0c, type: 3}
+  - {fileID: 21300000, guid: b095ea494be40de428b5f59f79bd21bd, type: 3}
+  - {fileID: 21300000, guid: da52e97a624520446b8b0138448b6b06, type: 3}
+  - {fileID: 21300000, guid: 4869d1aa13827064eb90a928e3b6fb00, type: 3}
+  - {fileID: 21300000, guid: 82dd94aa386e54340955b2aa2eed7a2d, type: 3}
+  - {fileID: 21300000, guid: e6969b2b99d8793418861967d1f26a74, type: 3}
+  - {fileID: 21300000, guid: 2d1afe4b700f1a2439c69e7a44405c6c, type: 3}
+  - {fileID: 21300000, guid: e5360bbb109bf94419f367cd4821fb30, type: 3}
+  - {fileID: 21300000, guid: 3755dfcba6f267042ba0a8bb2bc9ce52, type: 3}
+  - {fileID: 21300000, guid: 03e6e53c5ab55954c98bb87b49e279d4, type: 3}
+  - {fileID: 21300000, guid: 2f1c544c2a4eece4e924d13aaaffd82c, type: 3}
+  - {fileID: 21300000, guid: cffd7f4cdb28b43448befdfafc68cd36, type: 3}
+  - {fileID: 21300000, guid: ad8ed65c62242a84abb1c840777f5946, type: 3}
+  - {fileID: 21300000, guid: 8ce3216c74a53ce43b6c28fa21d5d26f, type: 3}
+  - {fileID: 21300000, guid: 065d3b6cd172a5b48bd05c9b7a14ecca, type: 3}
+  - {fileID: 21300000, guid: 99d24d6c724a6204fbf6febdd6ab36cb, type: 3}
+  - {fileID: 21300000, guid: 0369acbc502ba5a45b54b988dc8cd18c, type: 3}
+  - {fileID: 21300000, guid: f99f67dc01533754b97f2ec2475b34fd, type: 3}
+  - {fileID: 21300000, guid: d1fb48dc4e5ecc946812a187a3cd3c0d, type: 3}
+  - {fileID: 21300000, guid: 084391ec3705a35468ef97baf1dfae64, type: 3}
+  - {fileID: 21300000, guid: 7464d31df0edcc849a609c419aba06b8, type: 3}
+  - {fileID: 21300000, guid: a9b0f24d6e7122848a6123365dd6a9cc, type: 3}
+  - {fileID: 21300000, guid: a76d4d4d994d65e409b11cd1c4a312fa, type: 3}
+  - {fileID: 21300000, guid: dd6630ad341576d4b9280ab80f8e3f70, type: 3}
+  - {fileID: 21300000, guid: 2c6893ad5d29f7a4d822e86540f26203, type: 3}
+  - {fileID: 21300000, guid: f58ec4bdf5400e74d944e94fa95349a5, type: 3}
+  - {fileID: 21300000, guid: 7d7e6ffda0040c6488b8d57de6dd77ce, type: 3}
+  - {fileID: 21300000, guid: dbc47e0eb692e684aac9aba426ef14cb, type: 3}
+  - {fileID: 21300000, guid: 4533411ee76099c459b50fc7ba756f98, type: 3}
+  - {fileID: 21300000, guid: 4598536e2bfe17549bce5af4ffbdb94f, type: 3}
+  - {fileID: 21300000, guid: 2b57107e468b2c24285c0b02688fc943, type: 3}
+  - {fileID: 21300000, guid: da8960de2209f6145a233c6c1fa75ac4, type: 3}
+  - {fileID: 21300000, guid: f2cd496ff3ff30747b659e5fe51ac48e, type: 3}
+  - {fileID: 21300000, guid: 6281017f89826664e930db2bd2f27b89, type: 3}
+  - {fileID: 21300000, guid: 28d4ea7fb5d39b445ac8b73fb3bd7fcc, type: 3}
+  - {fileID: 21300000, guid: 0951fe7f5fc15f241aec088fbb3cd432, type: 3}
+  - {fileID: 21300000, guid: f85dbf8f59744844abbab6eec92982d5, type: 3}
+  - {fileID: 21300000, guid: 1cd324afa11892042869ec26ba2b69d6, type: 3}
+  - {fileID: 21300000, guid: 558b85bfcc386944796ca4951a6752c8, type: 3}
+  - {fileID: 21300000, guid: 40d9cbbf3494a6e47a67141c1b3420c5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Gyro_Scraching_East_02
+  - Gyro_Walk_South_03
+  - Gyro_Walk_North_05
+  - Gyro_Walk_South_06
+  - Gyro_Talk_East_02
+  - Gyro_Walk_North_06
+  - Table_Right
+  - Plant_03
+  - Gyro_Walk_North_03
+  - Gyro_Walk_North_01
+  - Gyro_Walk_South_02
+  - Background
+  - Foreground
+  - Vial_Smoke_11
+  - Plant_01
+  - Vial
+  - Gyro_Writing_North_05
+  - Vial_Smoke_14
+  - Gyro_Walk_East_01
+  - Robot_Explosion_01
+  - Gyro_Writing_North_02
+  - Gyro_Scraching_East_01
+  - Gyro_Robot_West_02
+  - Robot
+  - Vial_Smoke_04
+  - Door_Overlay
+  - Gyro_Writing_North_01
+  - Gyro_Standing_South
+  - Robot_Explosion_02
+  - Robot_Explosion_03
+  - Gyro_Walk_East_04
+  - Vial_Smoke_06
+  - Vial_Smoke_05
+  - Board
+  - Gyro_Walk_East_03
+  - Gyro_Mixing_East_02
+  - Gyro_Talk_East_01
+  - Vial_Smoke_07
+  - Gyro_Walk_South_04
+  - Vial_Smoke_09
+  - Robot_Explosion_08
+  - Gyro_Scraching_East_03
+  - Gyro_Mixing_East_03
+  - Gyro_Writing_North_03
+  - Vial_Smoke_10
+  - Plant_02
+  - Gyro_Scraching_North_03
+  - Plant_04
+  - Vial_Smoke_08
+  - Robot_Explosion_12
+  - Vial_Smoke_02
+  - Gyro_Walk_East_05
+  - Vial_Smoke_15
+  - Gyro_Standing_East
+  - Robot_Explosion_11
+  - Gyro_Walk_South_01
+  - Vial_Smoke_01
+  - Gyro_Mixing_East_04
+  - Vial_Smoke_16
+  - Gyro_Robot_West_01
+  - Robot_Explosion_09
+  - Gyro_Talk_East_03
+  - Vial_Smoke_03
+  - Gyro_Walk_North_02
+  - Robot_Explosion_04
+  - Gyro_Standing_North
+  - Vial_Smoke_12
+  - Gyro_Mixing_East_01
+  - Gyro_Writing_North_04
+  - Robot_Explosion_07
+  - Gyro_Walk_East_06
+  - Gyro_Scraching_North_02
+  - Door_Closed
+  - Gyro_Walk_East_02
+  - Robot_Explosion_10
+  - Robot_Explosion_06
+  - Gyro_Action_East
+  - Door_Open
+  - Robot_Explosion_05
+  - Gyro_Scraching_North_01
+  - Gyro_Walk_North_04
+  - Gyro_Walk_South_05
+  - Vial_Smoke_13
+  m_RenderDataMap: {}
+  m_Tag: GyroWorkshop
+  m_IsVariant: 0

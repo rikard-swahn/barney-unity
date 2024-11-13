@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CircleEnding
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4c297e30d9649374c925f1b957a79162, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e824e4c0aa7224446bd7007f1a78e58e, type: 3}
+  - {fileID: 21300000, guid: b7748381c12bc4245a56ad664581057e, type: 3}
+  - {fileID: 21300000, guid: 2251705305f4789489cec1d423db2882, type: 3}
+  - {fileID: 21300000, guid: 62979a1447e883c47933b803a7267015, type: 3}
+  - {fileID: 21300000, guid: d9284eb563e89cf429dc183a9c32233c, type: 3}
+  - {fileID: 21300000, guid: 05b41d576b733a94a9ffced469a28926, type: 3}
+  - {fileID: 21300000, guid: 0e51dc87a17580945a878fd44baa4f39, type: 3}
+  - {fileID: 21300000, guid: f04b57b7b2a28a44190a9add2fc362ef, type: 3}
+  - {fileID: 21300000, guid: 6e7131a8e8db5f54a8d03a28e875ae3e, type: 3}
+  - {fileID: 21300000, guid: b7c195b8b8593b0449e070ed052b1f94, type: 3}
+  - {fileID: 21300000, guid: 3ba2ce3bc2afd4e4aa675e973a7d7e92, type: 3}
+  - {fileID: 21300000, guid: e124671c919cf7f468f236402cf634f7, type: 3}
+  - {fileID: 21300000, guid: 64a9c53cf03d0ed49815ba3d67299486, type: 3}
+  - {fileID: 21300000, guid: 3609d75f1e4238b448946ad82613a2c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Circle_Ending_01
+  - Circle_Ending_09
+  - Circle_Ending_06
+  - Circle_Ending_03
+  - Circle_Ending_10
+  - Circle_Ending_08
+  - Circle_Ending_07
+  - Circle_Ending_12
+  - Circle_Ending_05
+  - Circle_Ending_13
+  - Circle_Ending_14
+  - Circle_Ending_02
+  - Circle_Ending_04
+  - Circle_Ending_11
+  m_RenderDataMap: {}
+  m_Tag: CircleEnding
+  m_IsVariant: 0

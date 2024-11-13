@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MickeyGarden
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6cbcec48eaaf1b54381617e5e5dc355f, type: 3}
+    - {fileID: 102900000, guid: 4c27199e8de8d914694c485d716794ed, type: 3}
+    - {fileID: 102900000, guid: cd85ea319e7897241bae280c2fcae604, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bfdb5a20548da4b40be626f290361bed, type: 3}
+  - {fileID: 21300000, guid: 6a3419302727edb4383b4e3744e98df1, type: 3}
+  - {fileID: 21300000, guid: f59b86403a8f5c849b8ddf7a230f253a, type: 3}
+  - {fileID: 21300000, guid: 82ab02702451ab540a486e265bd99942, type: 3}
+  - {fileID: 21300000, guid: 436f57e0bc24e6243a72344a35d11f7c, type: 3}
+  - {fileID: 21300000, guid: 41bb5811471f0124dad092025ee86e6f, type: 3}
+  - {fileID: 21300000, guid: 4d6fe221c471927439eaad183e047a7d, type: 3}
+  - {fileID: 21300000, guid: 38f3f8216c402e14f83c00bc9e11ea97, type: 3}
+  - {fileID: 21300000, guid: 5a744341d7ee71f45b8ac1d456462d17, type: 3}
+  - {fileID: 21300000, guid: d3f79b611d2a20a4398b4b7aa72850f7, type: 3}
+  - {fileID: 21300000, guid: 2d0f4c8161751c64fb36d0f9e6d32beb, type: 3}
+  - {fileID: 21300000, guid: 656643d1506e1d147babc8616905bd28, type: 3}
+  - {fileID: 21300000, guid: b667b602e8552ab4dab5676db6d41d5d, type: 3}
+  - {fileID: 21300000, guid: 07971e02f041cf345b4012a9567635b6, type: 3}
+  - {fileID: 21300000, guid: aeffa8621ec77064cb534de46ef7fa40, type: 3}
+  - {fileID: 21300000, guid: a8c9dc7254a9e4b459cfd4d81c3ded7f, type: 3}
+  - {fileID: 21300000, guid: 90c038b216fd51947a088d170d77e8d4, type: 3}
+  - {fileID: 21300000, guid: 58e23be2809509040b6a2bba1873cf5c, type: 3}
+  - {fileID: 21300000, guid: 73cda2f2a01317e42b4d6bcf72570034, type: 3}
+  - {fileID: 21300000, guid: 76cff8f2e750c57438815780ad6d75e6, type: 3}
+  - {fileID: 21300000, guid: 72ef4b034b5af024bbcd3865c01a54d6, type: 3}
+  - {fileID: 21300000, guid: f2200823969740b4cababffd2a081adb, type: 3}
+  - {fileID: 21300000, guid: efb4c9335692d774abbee70cb735c52e, type: 3}
+  - {fileID: 21300000, guid: fd68e28361bc7774fbb0e12e35ea4519, type: 3}
+  - {fileID: 21300000, guid: a4a69093b442a8946a3c8e9141010062, type: 3}
+  - {fileID: 21300000, guid: ecfa68935a974ea49884e0654055c29a, type: 3}
+  - {fileID: 21300000, guid: d98bf4f394410d44ab4af6fe0087e97c, type: 3}
+  - {fileID: 21300000, guid: dcc9c004cd61ab340b367c55ee985608, type: 3}
+  - {fileID: 21300000, guid: 21e0aa048a8db63498b1bc2c200e464f, type: 3}
+  - {fileID: 21300000, guid: 8722dd14ff120ee4fa3f1847dcd7d026, type: 3}
+  - {fileID: 21300000, guid: e2ea59540cd3fc047af0b4e25476b5a4, type: 3}
+  - {fileID: 21300000, guid: 7542a3949ee69ca459d5ebe5e779bed7, type: 3}
+  - {fileID: 21300000, guid: c53e16a434d3091449e84f2f06d8b56e, type: 3}
+  - {fileID: 21300000, guid: 37daade455bc62d46958ebb51623d1ae, type: 3}
+  - {fileID: 21300000, guid: 339481f4c590f8c448da44805101bee0, type: 3}
+  - {fileID: 21300000, guid: 86296f45cb9c4f94aa1dba133dd2c2bf, type: 3}
+  - {fileID: 21300000, guid: 3fc9e9b56ae2750478ca4c64ff86b9c9, type: 3}
+  - {fileID: 21300000, guid: a7741eb5a41226f419a40599693be7a0, type: 3}
+  - {fileID: 21300000, guid: ef5e2df52178d254fac2795e065543f0, type: 3}
+  - {fileID: 21300000, guid: 267a5276d2912f04ea821d12eb5c27e2, type: 3}
+  - {fileID: 21300000, guid: e5852696ea04bc3488b2a2b3cdcf8e1d, type: 3}
+  - {fileID: 21300000, guid: b5c217d66e0f68f438357c50be4be6e5, type: 3}
+  - {fileID: 21300000, guid: f92038f61a9951040b8dabf051274b82, type: 3}
+  - {fileID: 21300000, guid: 1af56d37b1bcf434c962bc822fe6f12c, type: 3}
+  - {fileID: 21300000, guid: 87f7ee6792cb34842a41f31971f79b23, type: 3}
+  - {fileID: 21300000, guid: b3bc3cd7390897b4498f9c9cd8bb3705, type: 3}
+  - {fileID: 21300000, guid: eb52a5e7d413e21438ad5709d09fa207, type: 3}
+  - {fileID: 21300000, guid: 9d985fe7d58d19e4c83f34640df9f688, type: 3}
+  - {fileID: 21300000, guid: 022dc6885eac2ed4b85556804d56397e, type: 3}
+  - {fileID: 21300000, guid: a6455f98469705143b79d818746c3c12, type: 3}
+  - {fileID: 21300000, guid: c2be13b858d04514ba003c27de922fbe, type: 3}
+  - {fileID: 21300000, guid: 296bf8b8a326d4c4cac79c187ac04993, type: 3}
+  - {fileID: 21300000, guid: aff3011943c53214daaf7459167ddcb6, type: 3}
+  - {fileID: 21300000, guid: 8d987719371c93443898ecc3b9634d23, type: 3}
+  - {fileID: 21300000, guid: 17b41a29a09cf714d82304081c105701, type: 3}
+  - {fileID: 21300000, guid: f8211159d69bda945bccc68972293d87, type: 3}
+  - {fileID: 21300000, guid: 34aeed69c79cb664aba7ab0289df4de0, type: 3}
+  - {fileID: 21300000, guid: 8fc591892fdb71e41a19f2b5b1e3486f, type: 3}
+  - {fileID: 21300000, guid: 26f556d9579b9484aa4239d32f965f80, type: 3}
+  - {fileID: 21300000, guid: 5d40240aa6df74d42a25362539de9f3b, type: 3}
+  - {fileID: 21300000, guid: d4f5566a3572cb940b9c106a25e1a120, type: 3}
+  - {fileID: 21300000, guid: b00a779a97d057846a334079bac98e84, type: 3}
+  - {fileID: 21300000, guid: 37dbe89a6b026b14da6544dd72badc72, type: 3}
+  - {fileID: 21300000, guid: 1fd7bfaa5023f694fb945755e3613398, type: 3}
+  - {fileID: 21300000, guid: 2a3b09caa30d1444f905019dc5f2931d, type: 3}
+  - {fileID: 21300000, guid: 81c9b91b4545be344a899045abe0ea48, type: 3}
+  - {fileID: 21300000, guid: deb3b12b2085c454b917b17838f6dcd2, type: 3}
+  - {fileID: 21300000, guid: ffa0814bbd5b0424592ba451eb2cfc2c, type: 3}
+  - {fileID: 21300000, guid: 016dfe8ba9a1afc48ae40a079a1ff130, type: 3}
+  - {fileID: 21300000, guid: 92c720cb0e59f6d4d96ad87da4506b9b, type: 3}
+  - {fileID: 21300000, guid: 9ae5eceb95129ea4d96a893b07c37a32, type: 3}
+  - {fileID: 21300000, guid: e1c4f90c226eaab47ab4e3acf964d8b4, type: 3}
+  - {fileID: 21300000, guid: ffb6cd4c31f062a4cbbe2fdc63361f7a, type: 3}
+  - {fileID: 21300000, guid: b06d4d5c9a9d34743b1ecb5bb1ec5d98, type: 3}
+  - {fileID: 21300000, guid: 0512209cf7789c942bd1ee7a514c5f36, type: 3}
+  - {fileID: 21300000, guid: 017e68acae964f04da61d09f8c6b61e9, type: 3}
+  - {fileID: 21300000, guid: 132fc8ccfab244f46bd99eaffc0c7f51, type: 3}
+  - {fileID: 21300000, guid: 5b731fcca1779d64a96bae8aeab5cadb, type: 3}
+  - {fileID: 21300000, guid: 9009e9ecbbf1e3c4fae8a657d79e6a58, type: 3}
+  - {fileID: 21300000, guid: 59fe011dd8f044549aacbc42d2106ba3, type: 3}
+  - {fileID: 21300000, guid: e6ea6c1de6ef48f40a43385364c1a4f6, type: 3}
+  - {fileID: 21300000, guid: 314d9d2ddda8489499abc3899d4ed3aa, type: 3}
+  - {fileID: 21300000, guid: 0b3fd73d52c17ec49ba5d0f2424675b6, type: 3}
+  - {fileID: 21300000, guid: c915714d4f66d1b4db35fc1ac40c87c6, type: 3}
+  - {fileID: 21300000, guid: 57e0278d9dd13174eae0aff44fcdd6fa, type: 3}
+  - {fileID: 21300000, guid: dafc0e8dc9503ff48a976b7fc59f9efd, type: 3}
+  - {fileID: 21300000, guid: 1ef5e39d7db4b954b9ddbc748b608039, type: 3}
+  - {fileID: 21300000, guid: c830bcad6aff26b4fbd2c381428a0912, type: 3}
+  - {fileID: 21300000, guid: 87f8fafd36c8d2e408252c06eab70d53, type: 3}
+  - {fileID: 21300000, guid: 60d5902e62165b44a8761475f8db89df, type: 3}
+  - {fileID: 21300000, guid: 18314e5ea35a84748a1fa5ffce0cb60f, type: 3}
+  - {fileID: 21300000, guid: b752a37edceadbd43818b113708f2f2e, type: 3}
+  - {fileID: 21300000, guid: c577e7aeb40d3e743aadaf1af2e7ca83, type: 3}
+  - {fileID: 21300000, guid: 11d295cea82b9e846a7064383e56f03a, type: 3}
+  - {fileID: 21300000, guid: 36df8cde80f05c24c9d0b11a0060fda5, type: 3}
+  - {fileID: 21300000, guid: d4e4fedea62968e43b8815cdb5baf1c3, type: 3}
+  - {fileID: 21300000, guid: 98285f3f1ceaa3b4c8fb208fae3a4f7f, type: 3}
+  - {fileID: 21300000, guid: 7e99ce6f1befa8c47b606ab294578545, type: 3}
+  - {fileID: 21300000, guid: 7c90bb9ff20468f4abbd5028ebfab978, type: 3}
+  - {fileID: 21300000, guid: f0f073af5fa14c748a727a6cf2928097, type: 3}
+  - {fileID: 21300000, guid: 17196bdf65272d14daad1d40539d9c9b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Arrest_02
+  - Arrest_07
+  - Mickey_Mower_East_01
+  - Mickey_Walk_South_03
+  - Mower_South_02
+  - Mickey_Walk_South_06
+  - Mickey_Mower_South_05
+  - Mickey_Car
+  - Mower_Smoke_06
+  - Mickey_Car_Trunk
+  - Background
+  - Mower_Explosion_South_09
+  - Mower_Explosion_South_08
+  - Mickey_Mower_South_01
+  - Mower_Explosion_South_01
+  - Arrest_04
+  - Mickey_Mower_East_06
+  - Mickey_Walk_East_06
+  - Cherry_Tree
+  - Mickey_Mower_North_06
+  - Mickey_Still_North
+  - Door_Closed
+  - Mickey_Still_South
+  - Paralax_City
+  - Mickey_Mower_South_06
+  - Police_Car_Door
+  - House
+  - Mower_Explosion_South_04
+  - Talking_02
+  - Mickey_Walk_East_01
+  - Arrest_06
+  - Mower_Explosion_South_07
+  - Mickey_Mower_South_04
+  - Mower_Smoke_05
+  - Arrest_08
+  - Mickey_Walk_East_04
+  - Fence_Front
+  - Mickey_Talking_South_02
+  - Arrest_03
+  - Marijuana_bag
+  - Arrest_05
+  - Fence_Front_Left
+  - Mower_Explosion_South_05
+  - Mickey_Mower_North_05
+  - Balcony
+  - Talking_03
+  - Mickey_Mower_East_03
+  - Mickey_Mower_South_03
+  - Mickey_Still_East
+  - Mickey_Talking_East_02
+  - Mower_North_01
+  - Mickey_Mower_East_02
+  - Mickey_Walk_East_03
+  - Talking_04
+  - Mower_East_01
+  - Arrest_09
+  - Uncut_Grass
+  - Mickey_Mower_South_02
+  - Mickey_Walk_North_01
+  - Door_Open
+  - Mower_South_01
+  - Fence_Gate_Open
+  - Mickey_Mower_North_04
+  - Mickey_Walk_South_04
+  - Mower_Smoke_02
+  - Mower_East_02
+  - Pillar
+  - Door_Overlay
+  - Mower_Smoke_01
+  - Fence_Gate_Closed
+  - Mickey_Walk_North_02
+  - Mickey_Walk_East_05
+  - Mower_Smoke_03
+  - Fence_Back
+  - Mickey_Walk_North_04
+  - Fence_Gate_Upper
+  - Mickey_Mower_North_02
+  - Mickey_Talking_East_Back_02
+  - Mickey_Mower_North_01
+  - Trash_Can
+  - Mower_North_02
+  - Mickey_Walk_South_02
+  - Mickey_Walk_North_06
+  - Mickey_Action_East
+  - Talking_01
+  - Arrest_01
+  - Mickey_Walk_North_05
+  - Mickey_Walk_South_01
+  - Mower_Explosion_South_06
+  - Mower_Smoke_04
+  - Mickey_Walk_South_05
+  - Mower_Explosion_South_03
+  - Door_Broken
+  - Mickey_Mower_East_05
+  - Mickey_Mower_North_03
+  - Mower_Explosion_South_02
+  - Mickey_Walk_North_03
+  - Trash_Can_Open
+  - Mickey_Mower_East_04
+  - Mickey_Walk_East_02
+  - Mickey_Talking_East_Back_01
+  m_RenderDataMap: {}
+  m_Tag: MickeyGarden
+  m_IsVariant: 0

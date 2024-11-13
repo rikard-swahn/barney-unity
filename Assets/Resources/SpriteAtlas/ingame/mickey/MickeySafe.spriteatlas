@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MickeySafe
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 83b20660ca8292e49b3d2765ce83beb8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0f1dca80c5d5145478879a321fd4c079, type: 3}
+  - {fileID: 21300000, guid: b94b69905a6adb44594e51326a9dbb8a, type: 3}
+  - {fileID: 21300000, guid: c0eee891f58c5724ab1a1ffe093f99a7, type: 3}
+  - {fileID: 21300000, guid: aa70adb1b03aefe4884f8836d26dbe21, type: 3}
+  - {fileID: 21300000, guid: 7f0473d197d842648b5ffd376d0ad0cc, type: 3}
+  - {fileID: 21300000, guid: 208198e116ea1924ea32c094f3a6a720, type: 3}
+  - {fileID: 21300000, guid: 560f6703e691eca45b7b19623f24f9d5, type: 3}
+  - {fileID: 21300000, guid: d7117e241d98897498db2c9ee22dcb94, type: 3}
+  - {fileID: 21300000, guid: f6a7e1c44cd8e1645bdff82d568cf285, type: 3}
+  - {fileID: 21300000, guid: 39167bd549515bc448b3f86ce646365e, type: 3}
+  - {fileID: 21300000, guid: 54391626c1d2daf40b98e0005d5425f1, type: 3}
+  - {fileID: 21300000, guid: 58f02536265fca542995a3d518ebd867, type: 3}
+  - {fileID: 21300000, guid: f2955a46b38622c4aa34160c39e8dfaf, type: 3}
+  - {fileID: 21300000, guid: ad2156a64f9a15347b2811ba34d31489, type: 3}
+  - {fileID: 21300000, guid: a4536d070ea30ea4c8e0a70057246571, type: 3}
+  - {fileID: 21300000, guid: 7a3a7867e0521b34ca880cda9538da8d, type: 3}
+  - {fileID: 21300000, guid: d4b26c97c770c104a819968f95e6cd00, type: 3}
+  - {fileID: 21300000, guid: 72c616f70d6b0734e90f0b18c9a9feeb, type: 3}
+  - {fileID: 21300000, guid: d47fe75883263b946bfb8d68b57ebab0, type: 3}
+  - {fileID: 21300000, guid: 59d95f5806a1c3c4c95424685e0c83dc, type: 3}
+  - {fileID: 21300000, guid: 3ec5fba81d7542441bbe51eae4f58764, type: 3}
+  - {fileID: 21300000, guid: d918fa39043830b4bb8833f02e2bbc9b, type: 3}
+  - {fileID: 21300000, guid: 9fb51849b7e53ef4da8193766512ff31, type: 3}
+  - {fileID: 21300000, guid: a6958489d4a663448b24e4caa15227b8, type: 3}
+  - {fileID: 21300000, guid: 3ff3e5f96fe8aa24b87abe31e1d30b7d, type: 3}
+  - {fileID: 21300000, guid: 2b26551ad18ebf2418d76b6456407d67, type: 3}
+  - {fileID: 21300000, guid: 9f118a7bb9858a94a892c5238b202a53, type: 3}
+  - {fileID: 21300000, guid: 5082352cf87a6724085f02d344ec2d22, type: 3}
+  - {fileID: 21300000, guid: 68c04c4c068b7c3408ed19f1a17c4353, type: 3}
+  - {fileID: 21300000, guid: 9539276c87a63854fbf594cd162c7881, type: 3}
+  - {fileID: 21300000, guid: 99664e5dd93ef4140a7d3c064026d6ea, type: 3}
+  - {fileID: 21300000, guid: 9d4e8e6d0e408c547b72d56ff4e868e3, type: 3}
+  - {fileID: 21300000, guid: ac08c9ad3e8b4304f8200df81848dc6e, type: 3}
+  - {fileID: 21300000, guid: c40731cd89951804ba5f287e265e867c, type: 3}
+  - {fileID: 21300000, guid: e5853c7ee45a54f4c8e2ffac02863310, type: 3}
+  - {fileID: 21300000, guid: 94ce426f0b224b14e85b78735f0a89fd, type: 3}
+  - {fileID: 21300000, guid: 35017ccfcf3126248af4948f6327f828, type: 3}
+  - {fileID: 21300000, guid: c166f8ffe6dc4aa418de00ff419ef84f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 7_Button_Down
+  - 0_Button_Up
+  - Correct
+  - Safe_Closed
+  - 6_Button_Up
+  - 9_Button_Down
+  - Background
+  - 3_Button_Down
+  - 2_Button_Down
+  - Wrong
+  - 1_Button_Down
+  - Goofy_Taking_Tickets_04
+  - Goofy_Taking_Tickets_03
+  - 3_Button_Up
+  - Safe_Open
+  - Goofy_Taking_Tickets_01
+  - Goofy_Taking_Tickets_09
+  - 8_Button_Up
+  - 6_Button_Down
+  - Buttons_Bg
+  - 0_Button_Down
+  - 4_Button_Down
+  - 8_Button_Down
+  - 7_Button_Up
+  - 5_Button_Down
+  - Goofy_Taking_Tickets_02
+  - 2_Button_Up
+  - 4_Button_Up
+  - 5_Button_Up
+  - Goofy_Taking_Tickets_07
+  - Exit_Button_Down
+  - Exit_Button_Up
+  - Goofy_Taking_Tickets_05
+  - Goofy_Taking_Tickets_08
+  - Ticket
+  - 9_Button_Up
+  - 1_Button_Up
+  - Goofy_Taking_Tickets_06
+  m_RenderDataMap: {}
+  m_Tag: MickeySafe
+  m_IsVariant: 0

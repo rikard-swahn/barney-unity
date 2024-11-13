@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - VisitPosition
+  - ItemText
+  - Inventory
+  - Conversation
+  - SayText
+  - PlayerSayText
+  - TextPosition
+  - ActionText
+  - Waypoint
+  - Character
+  - InGameCanvas
+  - GameSlot
+  - OrderedRendering
+  - TheEnd
+  - Credits
+  - Description
+  - Delete
+  - Baseline
+  - MainRenderer
+  - Navigation
+  - NavigationExit
+  - MainCanvas
+  - ConversationOption
+  - MenuArea
+  - Boat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackgroundCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 451012687
+    locked: 0
+  - name: Middle
+    uniqueID: 923773145
+    locked: 0
+  - name: Foreground
+    uniqueID: 3167327889
+    locked: 0

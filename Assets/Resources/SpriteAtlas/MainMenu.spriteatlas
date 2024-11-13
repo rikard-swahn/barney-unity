@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainMenu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5d8400738545a6841b408e05b367cf51, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6998c6e0bae553d44bbe2dfaeecf52c2, type: 3}
+  - {fileID: 21300000, guid: c4b893517d2d6ef429b844e271763279, type: 3}
+  - {fileID: 21300000, guid: fc03c8c2c73655d4181d13c6da5a8db8, type: 3}
+  - {fileID: 21300000, guid: 6fba5fc2e9e069548b12e77d9833d76a, type: 3}
+  - {fileID: 21300000, guid: 5f9af2b3fda59ec4a83bc84385ae929c, type: 3}
+  - {fileID: 21300000, guid: c73fbbb3540670546b8c9c13ec29d01b, type: 3}
+  - {fileID: 21300000, guid: d01e6954f6fe8094eaea9bb2513a4de1, type: 3}
+  - {fileID: 21300000, guid: dfa9958537561764280f4161e1402b00, type: 3}
+  - {fileID: 21300000, guid: 2ffb0c26378f04f4dae1b740fe99fc96, type: 3}
+  - {fileID: 21300000, guid: 533f99b6a107dce419b12fbc153e0649, type: 3}
+  - {fileID: 21300000, guid: 9705270756298274f984d6a0d0c43eed, type: 3}
+  - {fileID: 21300000, guid: 854ef868ad2624b479c82f83d357ad89, type: 3}
+  - {fileID: 21300000, guid: 4ebce7a93b611bd4ca1595e2188f79ce, type: 3}
+  - {fileID: 21300000, guid: b28d32aa45bffc448883e11b70790ac0, type: 3}
+  - {fileID: 21300000, guid: ec20d73c0e2fa5b4cb9cda073f1600c4, type: 3}
+  - {fileID: 21300000, guid: 895ba83f194a75d43b4803b6a22ddabb, type: 3}
+  - {fileID: 21300000, guid: 001bf96fb811ad34fb9a46fd8ac113ae, type: 3}
+  - {fileID: 21300000, guid: b922edaf7c8168942957756a3440d4d2, type: 3}
+  - {fileID: 21300000, guid: 8298c3ffde7c8494b9f4fcd114c43541, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - File_delete_window_no_buttons
+  - A
+  - C
+  - Barney's
+  - File_Delete_Button
+  - File_Button_Down
+  - Cruise_Title
+  - Game_Slot_Button
+  - Curtain
+  - Sea_Background
+  - Menu_Button
+  - File_Button
+  - B
+  - Dream_Title
+  - Menu_Button_Down
+  - Delete
+  - Player
+  - File_Delete_Button_Down
+  - Delete_Unavailable
+  m_RenderDataMap: {}
+  m_Tag: MainMenu
+  m_IsVariant: 0

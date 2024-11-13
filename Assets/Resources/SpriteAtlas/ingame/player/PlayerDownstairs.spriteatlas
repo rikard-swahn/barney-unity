@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerDownstairs
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e4146fd943b1a9248b0c0344467ba2c5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3440d13010a4e434288df742dd7ddc0b, type: 3}
+  - {fileID: 21300000, guid: f4fcc691ff3e11246be68f74f25a4a18, type: 3}
+  - {fileID: 21300000, guid: 831836224f534d6459caee51a2bce0b3, type: 3}
+  - {fileID: 21300000, guid: 85e31133621349946ba8a55f62354c4b, type: 3}
+  - {fileID: 21300000, guid: 862bb7e383cd64640946ee9af94bef37, type: 3}
+  - {fileID: 21300000, guid: 054005242fc13444a95dd387ff165b8f, type: 3}
+  - {fileID: 21300000, guid: 06b121c4815d3744a88a81547e5b3e8d, type: 3}
+  - {fileID: 21300000, guid: ddc1d8e5838fb624ebb05a53fba02b68, type: 3}
+  - {fileID: 21300000, guid: 1350ad16d98c1c344a45bff5ffdea3ca, type: 3}
+  - {fileID: 21300000, guid: 6149be78218486547949ec1451f1507a, type: 3}
+  - {fileID: 21300000, guid: 8ba4671b295bfd144b9642649cffd4fc, type: 3}
+  - {fileID: 21300000, guid: adba7f1c9a6c1cc45845dd80691a5f43, type: 3}
+  - {fileID: 21300000, guid: 5ce16a5dce7e8544b950d097d16f5421, type: 3}
+  - {fileID: 21300000, guid: b5ca8a5d18dbd4c4bb742a67221d44f4, type: 3}
+  - {fileID: 21300000, guid: f252b79d543be6b4eb17f815410a9cf6, type: 3}
+  - {fileID: 21300000, guid: 36fd357eb351d144f8cb1cb9a4cdd05d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Chair
+  - Stairs_Overlay
+  - coffee_cup
+  - Toilet_Door_Closed
+  - Outside_Door_Overlay
+  - Toilet_Door_Open
+  - Table
+  - Jug
+  - Outside_Door_Open
+  - Boots
+  - Background
+  - Toilet_Door_Overlay
+  - Deer
+  - Handrail
+  - Ashtray
+  - Outside_Door_Closed
+  m_RenderDataMap: {}
+  m_Tag: PlayerDownstairs
+  m_IsVariant: 0

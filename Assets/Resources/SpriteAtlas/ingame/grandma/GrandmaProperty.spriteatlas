@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrandmaProperty
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 41bc11c9755919a428af9ed1e67eacec, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7ac7eb00788b0b94c9c57f3d10a07191, type: 3}
+  - {fileID: 21300000, guid: 5ff4f450fc2cdad49ad7d7fe972ce206, type: 3}
+  - {fileID: 21300000, guid: 819ba2e226b904f4a85bcceba51aa0e3, type: 3}
+  - {fileID: 21300000, guid: 85d4c4e2d67099041a499ea1862c16ed, type: 3}
+  - {fileID: 21300000, guid: 7ffdbde3145ef2b4c80d3894acc6fb58, type: 3}
+  - {fileID: 21300000, guid: f32197b43eaa8d5488c77b78c0248b1f, type: 3}
+  - {fileID: 21300000, guid: 2a17b6c406d3bf341acfe68e4f3973f6, type: 3}
+  - {fileID: 21300000, guid: 4f06f755544e7834e88756cdc04a9a6f, type: 3}
+  - {fileID: 21300000, guid: 050696f6027f0ae44bc155e797ff8c21, type: 3}
+  - {fileID: 21300000, guid: 511168578c2bdf641ad06f0c003fd3f0, type: 3}
+  - {fileID: 21300000, guid: e591ebb796a1ea746867a46b02a39cc6, type: 3}
+  - {fileID: 21300000, guid: d4205e097fbc874429491cd47e3ebe5d, type: 3}
+  - {fileID: 21300000, guid: af43cc7907ec035469ba43a49f85e71f, type: 3}
+  - {fileID: 21300000, guid: 3fa4b11ac6de5e145a2eaa099d123b52, type: 3}
+  - {fileID: 21300000, guid: db99d44a3213e8642b6c5d6b06a58584, type: 3}
+  - {fileID: 21300000, guid: b63fdc4a1a5cfde49a90b7d212b79418, type: 3}
+  - {fileID: 21300000, guid: a615c5bb990a41c478e590fbc04dd64d, type: 3}
+  - {fileID: 21300000, guid: 807d9a1c9a0365a4b80d612c9fb0aba3, type: 3}
+  - {fileID: 21300000, guid: e8570f6c3ca88074fad1f17167c6d4a5, type: 3}
+  - {fileID: 21300000, guid: 8270009c9955cf745baabdb891417b4e, type: 3}
+  - {fileID: 21300000, guid: b43d9bac61838eb49b94e34d1ee254ca, type: 3}
+  - {fileID: 21300000, guid: c0ef514d6228535498c272e54c43e415, type: 3}
+  - {fileID: 21300000, guid: 9b135abdb97b3464fa4228085ce3fae3, type: 3}
+  - {fileID: 21300000, guid: 2ebde4cd17e594f4cbb6ec264d9f0c98, type: 3}
+  - {fileID: 21300000, guid: 99aeacedc7c3ba745aa199138f7ff12a, type: 3}
+  - {fileID: 21300000, guid: 4a6dcc4f49f16cc45986370c8c48986b, type: 3}
+  - {fileID: 21300000, guid: 03292b6ffa49c37488597ee7067dea76, type: 3}
+  - {fileID: 21300000, guid: 45b366df9366b1e469828356f0338945, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cannabis_06
+  - Small_Rock
+  - Tree
+  - Fence_part_1
+  - Raddish
+  - Fence_Back
+  - cannabis_03
+  - Background
+  - Sky
+  - cannabis_05
+  - Fence_part_4
+  - cannabis_04
+  - Fence_part_2
+  - Stone
+  - Flyer
+  - cannabis_01
+  - cannabis_02
+  - Hay
+  - Parallax
+  - Fence_part_3
+  - Crackers
+  - Trash
+  - Fence_Front
+  - Mail_Closed_1
+  - Scarecrow
+  - Watering_Can
+  - Cracker
+  - Mail
+  m_RenderDataMap: {}
+  m_Tag: GrandmaProperty
+  m_IsVariant: 0

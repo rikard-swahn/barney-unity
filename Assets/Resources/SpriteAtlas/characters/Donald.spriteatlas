@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Donald
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2b92910dcf4953f4c9529f67184e1175, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7d4467515816781419a08488ccb99e39, type: 3}
+  - {fileID: 21300000, guid: f99bc683b8e34af4cbea46990f859ef2, type: 3}
+  - {fileID: 21300000, guid: ea9ab074c9bdd284b9274a0eb010f9c4, type: 3}
+  - {fileID: 21300000, guid: e76dc6a4ed5b3bc4982d98753a70c934, type: 3}
+  - {fileID: 21300000, guid: 72493d06cc5a81f479a070016b3d9dc2, type: 3}
+  - {fileID: 21300000, guid: 523974c650bb25343838c0209a67a175, type: 3}
+  - {fileID: 21300000, guid: 97dbf33708ad7484e84d4e250f799647, type: 3}
+  - {fileID: 21300000, guid: 6de9ca18c629f16409c97aac4e8cbc30, type: 3}
+  - {fileID: 21300000, guid: a7de6f4927e7dac41ad024f9c34cacd9, type: 3}
+  - {fileID: 21300000, guid: 08de88ebdfc7d5148bbcf398ccdfcbe8, type: 3}
+  - {fileID: 21300000, guid: f7b1104c06a8cf543a78457465c43eb8, type: 3}
+  - {fileID: 21300000, guid: 7858af4d0e8aad043b77743fce8ebe97, type: 3}
+  - {fileID: 21300000, guid: 86d9b6ffdc0ea674484e3b5e271b155e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Donald_Talking_East_02
+  - Donald_Walk_East_06
+  - Donald_Walk_East_02
+  - Donald_Talking_South_02
+  - Donald_Still_East
+  - Donald_Walk_East_03
+  - Donald_Walk_East_04
+  - Donald_Walk_East_01
+  - Donald_Walk_East_05
+  - Donald_Talking_South_01
+  - Donald_Talking_East_01
+  - Donald_Still_South
+  - Donald_Action_East
+  m_RenderDataMap: {}
+  m_Tag: Donald
+  m_IsVariant: 0

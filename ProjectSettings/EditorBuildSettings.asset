@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0cee16bcd9f89aa47b95543c4605bdb8
+  - enabled: 1
+    path: Assets/Scenes/mall/MallOutside.unity
+    guid: 84f5cf9736467ba439e1437d8ab20bb7
+  - enabled: 1
+    path: Assets/Scenes/mickey/MickeyKitchen.unity
+    guid: 5131fcd76eed64744989c9be24b95d49
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyDownstairs.unity
+    guid: 74eeba7d915641d46b1526ca8f396459
+  - enabled: 1
+    path: Assets/Scenes/mickey/MickeyGarden.unity
+    guid: b8edf50059f18e14cb52068bf1b816f7
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyInternet.unity
+    guid: 2a83f79774f78a74798eb82d0403caaa
+  - enabled: 1
+    path: Assets/Scenes/outro/CruiseShipEnding.unity
+    guid: 799d8c0f4d2178842afb5d40ea7c58f7
+  - enabled: 1
+    path: Assets/Scenes/gyro/Workshop.unity
+    guid: 0e561df1de1a32a4b9304f633e846aa4
+  - enabled: 1
+    path: Assets/Scenes/outro/Cruise.unity
+    guid: 4c409d66f165f0a4091264f15cc600df
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyGarden.unity
+    guid: 506cabbe5e8e5fd47a0da39437cd281c
+  - enabled: 1
+    path: Assets/Scenes/grandma/GrandmaProperty.unity
+    guid: 5b1fd773bf6c23e42a944cbe85ecdcd7
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyPhone.unity
+    guid: 7507b222a9909a14fa14aa4397573776
+  - enabled: 1
+    path: Assets/Scenes/donald/DonaldGarden.unity
+    guid: 2fedf2a699dacf84db835fc28980fa36
+  - enabled: 1
+    path: Assets/Scenes/intro/Phonecall.unity
+    guid: 5da7cd32ae5898948bb3d9f01325b5e7
+  - enabled: 1
+    path: Assets/Scenes/mall/MallBank.unity
+    guid: 94a89e9ea711dc94c9bcc4f478173b23
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyToilet.unity
+    guid: c3c528484d736ef4aaa0b375a910802c
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyBedroom.unity
+    guid: c2cbefdf395de3c40a4cf41310bdefd9
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyUpstairs.unity
+    guid: ff379cb487bcae64195d7b7945734b99
+  - enabled: 1
+    path: Assets/Scenes/goofy/GoofyOffice.unity
+    guid: 5cc8c467f8280d34b91ddba8e1aaef7c
+  - enabled: 1
+    path: Assets/Scenes/map/Map.unity
+    guid: 8894376e1d5defc4cb8d5424573671d3
+  - enabled: 1
+    path: Assets/Scenes/grandma/GrandmaHouse.unity
+    guid: 1e0488ade36286143a8fd57e37edb92a
+  - enabled: 1
+    path: Assets/Scenes/mickey/MickeyEntrance.unity
+    guid: 9c26465e869bf124eb46749f8c209914
+  - enabled: 1
+    path: Assets/Scenes/mickey/MickeySafe.unity
+    guid: 19a40320b13103a41a7f3eea6ea1af3e
+  - enabled: 1
+    path: Assets/Scenes/intro/GoofyBedroomNight.unity
+    guid: 8844db4e6b6202b4cb4017433c6dc74c
+  - enabled: 1
+    path: Assets/Scenes/outro/CruiseText.unity
+    guid: b7ac1e57377dd1844ba200d219586cc6
+  - enabled: 1
+    path: Assets/Scenes/outro/CruiseShip.unity
+    guid: 4701546adcb48464faa694954d6717b0
+  - enabled: 1
+    path: Assets/Scenes/intro/NightText.unity
+    guid: 54654052bcc63d348803f4cf7851cad5
+  - enabled: 1
+    path: Assets/Scenes/mall/MallOutsideBank.unity
+    guid: 8ab5e547a03aae9499947402393add16
+  - enabled: 1
+    path: Assets/Scenes/mall/MallOutsideHobby.unity
+    guid: b2efcee41f9acf6438e4e6fb0e109f79
+  - enabled: 1
+    path: Assets/Scenes/mall/MallHobby.unity
+    guid: d32e7925e9a74884abd1e638702c972b
+  - enabled: 1
+    path: Assets/Scenes/intro/DonaldGardenIntro.unity
+    guid: fcd1e7b14c9d10447ba25b118b6d40ca
+  m_configObjects: {}

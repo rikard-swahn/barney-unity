@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gus
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1da89312b11583349a3389c1b687f8a0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e60435006c6b98049819f1c978ee17eb, type: 3}
+  - {fileID: 21300000, guid: d6bdefc05ef1fbb4ba316aed8950842d, type: 3}
+  - {fileID: 21300000, guid: db8695619ef87d04999846865d812d0d, type: 3}
+  - {fileID: 21300000, guid: be4fd661aece1814dbdff9c83a27c33b, type: 3}
+  - {fileID: 21300000, guid: 885372d184a816849970c9327975295a, type: 3}
+  - {fileID: 21300000, guid: 80b01442afc30c444a901d50c5bc369d, type: 3}
+  - {fileID: 21300000, guid: 4ebd5c92754a59a4e9a6c38017f84a85, type: 3}
+  - {fileID: 21300000, guid: fac3fb04318e7fe4895ef377e1f47d98, type: 3}
+  - {fileID: 21300000, guid: 1b8b1b446c6037443b9a82f54a5620c9, type: 3}
+  - {fileID: 21300000, guid: f5143cb4f9446e04e95558ca3d6c3cb3, type: 3}
+  - {fileID: 21300000, guid: 07013005085536242bdd57891d75f1e8, type: 3}
+  - {fileID: 21300000, guid: ff1f44757e93e0d4db36e13332c8c0f5, type: 3}
+  - {fileID: 21300000, guid: 93ae6ea5c5b9da64e899e5518a47ced7, type: 3}
+  - {fileID: 21300000, guid: 70cfbdc5367808d4d804e4fbb20f17d5, type: 3}
+  - {fileID: 21300000, guid: 3f21f50656f65074e8e59dbde92700ec, type: 3}
+  - {fileID: 21300000, guid: 9cb38556d6f3cff45af58bf69219aead, type: 3}
+  - {fileID: 21300000, guid: 410a8956e9254dc438f8ac37da7196f4, type: 3}
+  - {fileID: 21300000, guid: 4ff1b1c735f83564ab1ad2bf8e6d8d1a, type: 3}
+  - {fileID: 21300000, guid: 553154d799109f741a136d64cc5f6c31, type: 3}
+  - {fileID: 21300000, guid: ad7a3089de613d3428e4f8058630ece4, type: 3}
+  - {fileID: 21300000, guid: 6f94dc5ad4a0eb74d96e49c0d1132cbd, type: 3}
+  - {fileID: 21300000, guid: af253b8a8c1aac149ad7b2fd0540fa35, type: 3}
+  - {fileID: 21300000, guid: ec41e55bd5bf1cd4c82b3983640a2965, type: 3}
+  - {fileID: 21300000, guid: 96948ffbe57f3ec40bbd81b795a0ec34, type: 3}
+  - {fileID: 21300000, guid: be8bbf4ce497a8145bc23d60db1e456b, type: 3}
+  - {fileID: 21300000, guid: 24846d6cd0e7a4d45aae76a924650dde, type: 3}
+  - {fileID: 21300000, guid: 81d0070d5051f4d458602467cf4087e2, type: 3}
+  - {fileID: 21300000, guid: a4a0413d1dc9a3a408c29d53fc1a5067, type: 3}
+  - {fileID: 21300000, guid: 7280579df947e0744b727a0218a6fd50, type: 3}
+  - {fileID: 21300000, guid: 80ec0b9d61db63e4892c94abcec08093, type: 3}
+  - {fileID: 21300000, guid: caa68b2e6feed774eb090cd888251655, type: 3}
+  - {fileID: 21300000, guid: 01ff8d3e37613ba4da597c01602ce452, type: 3}
+  - {fileID: 21300000, guid: ffe0ee6ecd7c360469479076ad10b9d0, type: 3}
+  - {fileID: 21300000, guid: 62772bfe28ad6474bafd177c181831d6, type: 3}
+  - {fileID: 21300000, guid: 9fa2e70fd4068b849bf5f42eb2343db1, type: 3}
+  - {fileID: 21300000, guid: 87b4bb5fd7e41e442b9737545c4f4408, type: 3}
+  - {fileID: 21300000, guid: 3d24347f91a61e94f979b7b2a8346134, type: 3}
+  - {fileID: 21300000, guid: 7cb177df699a1ea4ebc7067dce096884, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Gus_Eating_West_05
+  - Gus_Walk_East_03
+  - Gus_Talking_West_01
+  - Gus_Action_North
+  - Gus_Standing_East
+  - Gus_Standing_North
+  - Gus_Talking_South_01
+  - Gus_Eating_West_04
+  - Gus_Eating_West_02
+  - Gus_Standing_South
+  - Gus_Talking_West_03
+  - Gus_Eating_West_06
+  - Gus_Talking_East_04
+  - Gus_Walk_North_04
+  - Gus_Eating_West_07
+  - Gus_Sitting_West
+  - Gus_Walk_North_05
+  - Gus_Walk_North_01
+  - Gus_Walk_North_03
+  - Gus_Talking_East_03
+  - Gus_Walk_East_06
+  - Gus_Eating_West_01
+  - Gus_Talking_East_01
+  - Gus_Talking_East_02
+  - Gus_Talking_West_02
+  - Gus_Talking_South_03
+  - Gus_Eating_West_09
+  - Gus_Walk_East_05
+  - Gus_Eating_West_03
+  - Gus_Walk_East_01
+  - Gus_Walk_North_02
+  - Gus_Talking_South_04
+  - Gus_Walk_East_02
+  - Gus_Walk_East_04
+  - Gus_Talking_South_02
+  - Gus_Talking_West_04
+  - Gus_Eating_West_08
+  - Gus_Walk_North_06
+  m_RenderDataMap: {}
+  m_Tag: Gus
+  m_IsVariant: 0

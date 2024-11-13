@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hud
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c3ba2eeb0b8883b4ca19b0cd885f60b6, type: 3}
+    - {fileID: 102900000, guid: d93067d6b81d20e4d9edb3b2a8a50edb, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: af630e00c59793846a28f55bc36530cb, type: 3}
+  - {fileID: 21300000, guid: 3b39ef2043f736e4abfd79302e10a35e, type: 3}
+  - {fileID: 21300000, guid: 330906715e586be4180f09aaa0c42dae, type: 3}
+  - {fileID: 21300000, guid: 231771c1396f2de4991c78f1cd8e670c, type: 3}
+  - {fileID: 21300000, guid: 0c75b8e1f6357d04c9cc164f44ccb3f6, type: 3}
+  - {fileID: 21300000, guid: 15f6f9224e60cf147a3d0f3480ac10a3, type: 3}
+  - {fileID: 21300000, guid: b2aae12366d56b9459fd2c01de908216, type: 3}
+  - {fileID: 21300000, guid: 82fc39a332a476e4a8a3cefa0d7d25bc, type: 3}
+  - {fileID: 21300000, guid: 6307d8d31e521bd4693be60d2af316be, type: 3}
+  - {fileID: 21300000, guid: 5274e3f5a19828d4f8f9dfa2828b9b9a, type: 3}
+  - {fileID: 21300000, guid: e4857be650bd9204595b856c941e4630, type: 3}
+  - {fileID: 21300000, guid: cf1dc2073cbab4a46bd98f91de042fba, type: 3}
+  - {fileID: 21300000, guid: 3247ba4739c1a414d8ffcf54ffbaa4bc, type: 3}
+  - {fileID: 21300000, guid: f1ed9e77f4c55ed4280dcbf7903afb6e, type: 3}
+  - {fileID: 21300000, guid: 100c9e18f26b522429399f8ffa4e165f, type: 3}
+  - {fileID: 21300000, guid: fb72a1483c5a1454997ce68bc382fc83, type: 3}
+  - {fileID: 21300000, guid: 0a2b092962529be40ae3cdfc7f2f2197, type: 3}
+  - {fileID: 21300000, guid: ccbb2f8aee546b64eb41a9edaeabd995, type: 3}
+  - {fileID: 21300000, guid: 61aca49a1e152164eb8a454f117a5375, type: 3}
+  - {fileID: 21300000, guid: 9cdb1f0bbafed37478caf09d6cea7d3c, type: 3}
+  - {fileID: 21300000, guid: a31f43fbd38d5f0478d9733677a249ae, type: 3}
+  - {fileID: 21300000, guid: c166055ce0be5cd4cb49c04dd7620d3e, type: 3}
+  - {fileID: 21300000, guid: 88b6a03d813046b418784fb355baef4a, type: 3}
+  - {fileID: 21300000, guid: 7a82229d275bb844a8f655dec028c165, type: 3}
+  - {fileID: 21300000, guid: e6733acda4012e24fa7e064e4f020126, type: 3}
+  - {fileID: 21300000, guid: ab0f549e85ae7104c9f26f046e154e9d, type: 3}
+  - {fileID: 21300000, guid: 413199be7eb2159408a670c3915bb606, type: 3}
+  - {fileID: 21300000, guid: 1b5114ce86280e74b9ebf5e05094ca82, type: 3}
+  - {fileID: 21300000, guid: 828ba8eebc51d354b8ce675524389672, type: 3}
+  - {fileID: 21300000, guid: 3687fcfecba4228428cecbd7d1eadacc, type: 3}
+  - {fileID: 21300000, guid: 0bd5007faad30f14da5207d10152c65c, type: 3}
+  - {fileID: 21300000, guid: f5c417ef10247b249b087b89bc79ff58, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Left_Arrow_Down2
+  - Right_Arrow2
+  - Pause_Button_Down2
+  - Super_Fertilizer
+  - ToDoList2
+  - Hairpin
+  - Bank_Card
+  - Cruise_Tickets
+  - Pause_Button2
+  - glove
+  - Cannabis_Seeds
+  - receipt
+  - Slot_Unselected
+  - modem
+  - Left_Arrow2
+  - Hourglass
+  - Form
+  - turd
+  - crowbar
+  - Coffe Pot
+  - Shoe_Ad
+  - Envelope
+  - Slot_Selected
+  - Cracker
+  - Watering_Can
+  - Cannabis_Sack
+  - Slot_Down
+  - rock
+  - Pencil
+  - Welfare_Check
+  - Model_Aircraft
+  - Right_Arrow_Down2
+  m_RenderDataMap: {}
+  m_Tag: Hud
+  m_IsVariant: 0

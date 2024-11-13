@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MallHobby
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6ebbac24e9ec76b41aa745b2705102e4, type: 3}
+    - {fileID: 102900000, guid: e6e85d31fd24eb140840a234ed3ca7b6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd5058c02b492af4f91693753ea41c05, type: 3}
+  - {fileID: 21300000, guid: 3155fce05921a1347a240d658af994a0, type: 3}
+  - {fileID: 21300000, guid: d95dc355ef21a3d479fab35c949790b7, type: 3}
+  - {fileID: 21300000, guid: 806d2aa53a20c8f4987a4afabd6df66d, type: 3}
+  - {fileID: 21300000, guid: 6ea9a7e716d01364b8e25cb9ee9d2784, type: 3}
+  - {fileID: 21300000, guid: e16df748c16ec81429e105e12dc058a5, type: 3}
+  - {fileID: 21300000, guid: 8bed05789f71c554f943109e5df69f08, type: 3}
+  - {fileID: 21300000, guid: 53fa3d0a021a2274db859d7cd8e8bd8c, type: 3}
+  - {fileID: 21300000, guid: a427124ad8fa4f14291b8135680706db, type: 3}
+  - {fileID: 21300000, guid: 28b8868ac216617498f9e7dcfade946b, type: 3}
+  - {fileID: 21300000, guid: edaf70caf6446e341879eaf1acb3e0c9, type: 3}
+  - {fileID: 21300000, guid: 1bf8987b32b04ce44a3d128d4f6b1e55, type: 3}
+  - {fileID: 21300000, guid: 6cba899c2fd34e545afe6fe2d715b025, type: 3}
+  - {fileID: 21300000, guid: 4a1d644db7491c846a0ba288927beb63, type: 3}
+  - {fileID: 21300000, guid: 8859b79dc3a72df42a8c65105907d12d, type: 3}
+  - {fileID: 21300000, guid: 6c6343ad75927064f8c2d366bb398c53, type: 3}
+  - {fileID: 21300000, guid: a3be73bd943008a4891f86461772ec77, type: 3}
+  - {fileID: 21300000, guid: 74bbd8aed95892f4a874d2814651dd41, type: 3}
+  - {fileID: 21300000, guid: cb28e1ce6d8b4c0459d6d568cdf447a5, type: 3}
+  - {fileID: 21300000, guid: 521037af2669dcf46b72be60404841bd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HobbyStore_Clerk_Talk_02
+  - HobbyStore_Clerk_Action_South_04
+  - HobbyStore_Clerk_Action_South_02
+  - HobbyStore_Clerk_Idle_02
+  - Background
+  - HobbyStore_Clerk_Talk_01
+  - Shelf_Left
+  - Plane_Box
+  - Modem_Box_Counter
+  - HobbyStore_Clerk_Talk_03
+  - Clerk
+  - HobbyStore_Clerk_Idle_01
+  - HobbyStore_Clerk_Idle_03
+  - Alarm
+  - Modem_Box
+  - HobbyStore_Clerk_Action_South_01
+  - HobbyStore_Clerk_Talk_04
+  - ForegroundShelf
+  - HobbyStore_Clerk_Action_South_03
+  - Alarm_Activated
+  m_RenderDataMap: {}
+  m_Tag: MallHobby
+  m_IsVariant: 0

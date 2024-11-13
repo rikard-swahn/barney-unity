@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CruiseShip
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3315fbd94073bd347858025a034f3c50, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0284c74184eda374087895d5dca8f66b, type: 3}
+  - {fileID: 21300000, guid: cdc403d24dea58e4181404d171a83832, type: 3}
+  - {fileID: 21300000, guid: 80a754336f720d34390524c9699d8089, type: 3}
+  - {fileID: 21300000, guid: d95a82834c66f16418412fc0ffce87c5, type: 3}
+  - {fileID: 21300000, guid: c9021b55d984a11498252e047074b81d, type: 3}
+  - {fileID: 21300000, guid: 28fbdb55f3e18fc43861134f77b68708, type: 3}
+  - {fileID: 21300000, guid: 2b12d4a6ff6f8334982598245aefd7c3, type: 3}
+  - {fileID: 21300000, guid: e818ad68ad804ef43b55d7707f9a4d13, type: 3}
+  - {fileID: 21300000, guid: de5aac7b7fa8d2f46ae3f2a4687e617f, type: 3}
+  - {fileID: 21300000, guid: 3b8b212f6a72bd241bd7d561cf50638b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cruise_Ship_07
+  - Cruise_Ship_01
+  - Cruise_Ship_09
+  - Cruise_Ship_02
+  - Cruise_Ship_03
+  - Cruise_Ship_05
+  - Cruise_Ship_06
+  - Cruise_Ship_10
+  - Cruise_Ship_04
+  - Cruise_Ship_08
+  m_RenderDataMap: {}
+  m_Tag: CruiseShip
+  m_IsVariant: 0

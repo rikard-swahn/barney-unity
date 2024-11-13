@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DonaldGarden
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ba54553667799024094b26415ae5e242, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1712fc80c5587bc41984a7e6ff2f9a09, type: 3}
+  - {fileID: 21300000, guid: fa7669a075869ca47b223b6102295eb5, type: 3}
+  - {fileID: 21300000, guid: 43f5693112642214890ff7001012eb37, type: 3}
+  - {fileID: 21300000, guid: c43b4071c2551384fbbc5b259b24cb4e, type: 3}
+  - {fileID: 21300000, guid: e2442ff15c7cc3e4aa0cf0fbaf92da97, type: 3}
+  - {fileID: 21300000, guid: 3e2cd744cf39f924481f864a4aeaaa02, type: 3}
+  - {fileID: 21300000, guid: 9c59da8453965c5449ae0ab27f143c0d, type: 3}
+  - {fileID: 21300000, guid: 6acc88947996a1e43a9037c9065ea1c3, type: 3}
+  - {fileID: 21300000, guid: 98bd36d46240e694894e0dff185203bf, type: 3}
+  - {fileID: 21300000, guid: dea75d0527e8b3e4281f565fa79073f7, type: 3}
+  - {fileID: 21300000, guid: 79c51ca69b356414091edf1f3390c518, type: 3}
+  - {fileID: 21300000, guid: e8b5f037014b0af4cb03b721867836ae, type: 3}
+  - {fileID: 21300000, guid: 22761fd7abb4d08458c208d872151496, type: 3}
+  - {fileID: 21300000, guid: 9bbaf709224f20a4f938c0af7991094c, type: 3}
+  - {fileID: 21300000, guid: 5089b6ec1a5053141b3fa7201a270017, type: 3}
+  - {fileID: 21300000, guid: eabedf2d18a777f43bb0adb24fe8499b, type: 3}
+  - {fileID: 21300000, guid: 398c2bcea20b9674f87d29c5389ba30f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Trash_Closed
+  - Door_Open
+  - Fence_Front
+  - Fence_Back
+  - Foreground_Tree2
+  - Trash_Open
+  - Tree
+  - Foreground_Tree3
+  - Background
+  - Fence_BottomLeft
+  - Skyline_Parallax
+  - Foreground_Tree1
+  - Door_Closed
+  - Door_Overlay
+  - Bush
+  - Foreground_Tree4
+  - House
+  m_RenderDataMap: {}
+  m_Tag: DonaldGarden
+  m_IsVariant: 0

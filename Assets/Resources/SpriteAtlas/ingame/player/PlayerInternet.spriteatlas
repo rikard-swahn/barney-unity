@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerInternet
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9cf6694f465adb446acecbdd221daa29, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c0915800612798d41bb11492d14523e8, type: 3}
+  - {fileID: 21300000, guid: 65a7c74051bd63945ba1984816ca3315, type: 3}
+  - {fileID: 21300000, guid: 6d3da660275bbf84cae33b9799f9dad1, type: 3}
+  - {fileID: 21300000, guid: e88d15c0fecc4264484eba22a390b6ac, type: 3}
+  - {fileID: 21300000, guid: 03224e91a685fa5439e16f444359d5fc, type: 3}
+  - {fileID: 21300000, guid: 84d5e7e47f053e54b934e77cb8d5471e, type: 3}
+  - {fileID: 21300000, guid: eb303eb5f8250514ca34c713b62b8ca5, type: 3}
+  - {fileID: 21300000, guid: ff1c8dc5a01d1174bbccdecacd3a0ded, type: 3}
+  - {fileID: 21300000, guid: 3bc4cb26e53a8cf47839890d00877ec7, type: 3}
+  - {fileID: 21300000, guid: c603e796f5b820e44ace826c452aa3d8, type: 3}
+  - {fileID: 21300000, guid: 24cff1b683a76ab4185b2c4399af2edc, type: 3}
+  - {fileID: 21300000, guid: c632040729e81a745b2a3bc1a0e235ad, type: 3}
+  - {fileID: 21300000, guid: 8560491731eea454691e672e6f3badaa, type: 3}
+  - {fileID: 21300000, guid: 78c20087d077c834c871af9cb3c2a73a, type: 3}
+  - {fileID: 21300000, guid: bacf06a73172f5c428be3c351e1c27ec, type: 3}
+  - {fileID: 21300000, guid: 89577ca78a04c7e49a7316969da2cab8, type: 3}
+  - {fileID: 21300000, guid: 6a93b1b741aec8d4fa6bac153ed44901, type: 3}
+  - {fileID: 21300000, guid: 56fca8989a15f9242b7fa1b917b75fae, type: 3}
+  - {fileID: 21300000, guid: f14672a8f033feb458bb91a62e02751b, type: 3}
+  - {fileID: 21300000, guid: 3475b5a94ff1e6a4d81ad0d9737d0839, type: 3}
+  - {fileID: 21300000, guid: 8f7a74c9e32e2a14abd455b15f39779a, type: 3}
+  - {fileID: 21300000, guid: f50a0d1ad062d1841b286c6a17eb3c1e, type: 3}
+  - {fileID: 21300000, guid: 5c4bd5da9ec72e84092e927b89e863f8, type: 3}
+  - {fileID: 21300000, guid: 806f925c9c7e1464f94eb1b69b070371, type: 3}
+  - {fileID: 21300000, guid: 624b947cd9f299c45a4679f815a97e40, type: 3}
+  - {fileID: 21300000, guid: 2d3f14ccdfb53cf4fa7e0fd68abf15b2, type: 3}
+  - {fileID: 21300000, guid: 0978109d18966a347b48889679847292, type: 3}
+  - {fileID: 21300000, guid: 405b98cd757dcd740ac8c4fc82964bc1, type: 3}
+  - {fileID: 21300000, guid: 2999301ed2a87c14caebdf86e1f8c6d0, type: 3}
+  - {fileID: 21300000, guid: 45127cfec343848449de1dd2ec4ceaa4, type: 3}
+  - {fileID: 21300000, guid: 094a908f9786f99488181afb59cd5d15, type: 3}
+  - {fileID: 21300000, guid: a0bf84ffde94e0541a2ec3e710cd3d36, type: 3}
+  - {fileID: 21300000, guid: 32caadff6667f064e8851a0488fc3c9e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Key_Icon
+  - Bong_Button_Up
+  - Close_Button_Up
+  - Twiiter_Button_Up
+  - Email_Button_Down
+  - Bunny_Button_Up
+  - Bong_Button_Down
+  - Button_Up
+  - Shirt_Button_Down
+  - CannabisPage
+  - Error_Icon
+  - Input_Field
+  - Seeds_Button_Up
+  - PornPage
+  - Screen_Overlay
+  - Return_Button_Up
+  - Button_Down
+  - Background
+  - Pc_Dialog_NoButton
+  - Email_Button_Up
+  - Return_Button_Disabled
+  - Twiiter_Button_Down
+  - Bunny_Button_Down
+  - MailPage
+  - StartPage
+  - Power_Button_Up
+  - Power_Button_Down
+  - Close_Button_Down
+  - QuestionMark_v2
+  - Shirt_Button_Up
+  - Return_Button_Down
+  - Seeds_Button_Down
+  - Login_Window
+  m_RenderDataMap: {}
+  m_Tag: PlayerInternet
+  m_IsVariant: 0

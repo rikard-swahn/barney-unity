@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerPhone
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 05ec68802f056204c8cd6ff3a72f3c55, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e597342075643734d86e145197f6f30d, type: 3}
+  - {fileID: 21300000, guid: 93de45e0f0565c34c81beb5fc9349193, type: 3}
+  - {fileID: 21300000, guid: d1fddf214fb6da44f8b8d5f450649852, type: 3}
+  - {fileID: 21300000, guid: 91a2e38151a5b1442badf2d4b81f17ea, type: 3}
+  - {fileID: 21300000, guid: 70c2c3b1d51a93b468a2ad1d949ec99c, type: 3}
+  - {fileID: 21300000, guid: 954642a2c7edfb343aa8d8e62c08f284, type: 3}
+  - {fileID: 21300000, guid: ce53bb239768f8b4a922d00a460bec04, type: 3}
+  - {fileID: 21300000, guid: a3244e43ad064b54aa727db1bb2372e5, type: 3}
+  - {fileID: 21300000, guid: aafdd2d30468d6644b0abc181cbf3fa2, type: 3}
+  - {fileID: 21300000, guid: af31bf04b80ad114f8f2b0e361dab41a, type: 3}
+  - {fileID: 21300000, guid: 996778649f8ff204b9d231ac54d67751, type: 3}
+  - {fileID: 21300000, guid: 1e53e3e4d5b7f7540812650de3ff3959, type: 3}
+  - {fileID: 21300000, guid: 20830bf4fc4933f4f865cf8892737c8d, type: 3}
+  - {fileID: 21300000, guid: a6a7e7153d684f8439a460b3700e0f9a, type: 3}
+  - {fileID: 21300000, guid: 707b54952f492a24e8afddc89348afbc, type: 3}
+  - {fileID: 21300000, guid: 7a4a1695a12d0704ebc74c94a0225438, type: 3}
+  - {fileID: 21300000, guid: bb5db2762c7c9b04c88e2beb65b98298, type: 3}
+  - {fileID: 21300000, guid: 8002dca6523c84c41ad8bbe0fc726efc, type: 3}
+  - {fileID: 21300000, guid: 67864637d68367343a83c35bef87e65f, type: 3}
+  - {fileID: 21300000, guid: 70cfc957ab9da6e4cae8bfdafd272828, type: 3}
+  - {fileID: 21300000, guid: 0ba975772a148b7418b8b061b59b3e23, type: 3}
+  - {fileID: 21300000, guid: 47881797b4fe7354aaef0660dcfb6554, type: 3}
+  - {fileID: 21300000, guid: 1ca6b3c71108fd7489b60b1691a31958, type: 3}
+  - {fileID: 21300000, guid: 6da0274854adbdb4a946ae578a740f3a, type: 3}
+  - {fileID: 21300000, guid: 64bbde685104c554a9596329a16cd18c, type: 3}
+  - {fileID: 21300000, guid: 25960d0972ac61041b91897f46762fa7, type: 3}
+  - {fileID: 21300000, guid: f547071b7f8df4c438b90a421653e2ab, type: 3}
+  - {fileID: 21300000, guid: 4f7d453b50e1e9f43bb1799fa08d360b, type: 3}
+  - {fileID: 21300000, guid: adee504b6285ee9429c3dbc886fdc83e, type: 3}
+  - {fileID: 21300000, guid: ca3f394b39b0a0d4382e1f09d3035163, type: 3}
+  - {fileID: 21300000, guid: 27b4517b07d657c468df9e6379c985e8, type: 3}
+  - {fileID: 21300000, guid: e2ce8aab4670a844f8bc95548fb3fde1, type: 3}
+  - {fileID: 21300000, guid: d8f795eb82e0aa543887b28919ee41ad, type: 3}
+  - {fileID: 21300000, guid: 702e93fb9d82ec3419809bf3d9ecbf89, type: 3}
+  - {fileID: 21300000, guid: e1a664fb7b877794d986e2d62472c897, type: 3}
+  - {fileID: 21300000, guid: 2c589cdc7c4261c4aa2ca60351d42c09, type: 3}
+  - {fileID: 21300000, guid: 8c887cdd8eff49c41afb3cd90c2581a1, type: 3}
+  - {fileID: 21300000, guid: f7aca3ed2e10e9447847fdcd23009dba, type: 3}
+  - {fileID: 21300000, guid: 05533f0edb527ac4ebff70f6849cf5c4, type: 3}
+  - {fileID: 21300000, guid: 293c21deb3f4ba74bacff96905923d92, type: 3}
+  - {fileID: 21300000, guid: db0b961f55e951240bc75268767eb498, type: 3}
+  - {fileID: 21300000, guid: ebecdb4f52f35a840beebf32dcc138dd, type: 3}
+  - {fileID: 21300000, guid: 66887c4f5d15cd846a48512b0a16f63d, type: 3}
+  - {fileID: 21300000, guid: ab9aa66f67153ad479846150fe764f0d, type: 3}
+  - {fileID: 21300000, guid: 13477e8faffffcc4896a67b4723e9fdf, type: 3}
+  - {fileID: 21300000, guid: 77ef32bf8de20ea489d8412dbe2e457e, type: 3}
+  - {fileID: 21300000, guid: 5c7468bf751677343bbf8bc6ef2ee2c9, type: 3}
+  - {fileID: 21300000, guid: af1fcabf8d6f697479271496b45647fc, type: 3}
+  - {fileID: 21300000, guid: 16943def4c6222c4ea6046f9896685d6, type: 3}
+  - {fileID: 21300000, guid: b2fe69ff55324ae49a4ad360d28fcfe6, type: 3}
+  - {fileID: 21300000, guid: 322e3cffa0dd4d14ea041a22ab946c2d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Phone_Dial_09
+  - Phone_Dial_13
+  - Phone_Dial_18
+  - Phone_Owl_04
+  - empty
+  - 8_down
+  - Phone_Dial_15
+  - Phone_Owl_02
+  - 5_down
+  - Phone_Dial_16
+  - 2_down
+  - 7_down
+  - Phone_Dial_20
+  - Phone_BG 1
+  - Phone 1
+  - 0_down
+  - Phone_Officer_02
+  - Phone_Dial_12
+  - 9_down
+  - Phone_Dial_02
+  - Phone_Dial_19
+  - 3_down
+  - Phone_Mickey_04
+  - 6_down
+  - Phone_Dial_06
+  - Phone_Barney_03
+  - Phone_Dial_03
+  - Phone_Officer_04
+  - Phone_Dial_05
+  - Phone_Officer_03
+  - Phone_Dial_11
+  - Phone_Dial_14
+  - Phone_Dial_08
+  - Phone_Barney_04
+  - Phone_Dial_17
+  - Phone_Barney_02
+  - Phone_Mickey_01
+  - Phone_Mickey_03
+  - Phone_Dial_07
+  - Phone_Dial_10
+  - Phone_Dial_01
+  - Phone_Dial_04
+  - Phone_Owl_03
+  - Phone_Split
+  - Phone_Dial_21
+  - 4_down
+  - Phone_Barney_01
+  - Phone_Owl_01
+  - Phone_Mickey_02
+  - Phone_Officer_01
+  - 1_down
+  m_RenderDataMap: {}
+  m_Tag: PlayerPhone
+  m_IsVariant: 0

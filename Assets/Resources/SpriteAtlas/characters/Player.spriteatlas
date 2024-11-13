@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5455e820b5d09bd4ea9edf1855e017a0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 78e566301a29efe4b877d9f34459b6d1, type: 3}
+  - {fileID: 21300000, guid: 9503bc409f5a4a348ad9956c0e374aad, type: 3}
+  - {fileID: 21300000, guid: 15b5ed01462fbd84db1c4029635b79c0, type: 3}
+  - {fileID: 21300000, guid: c720773127991f146b84e9ff7ef51b9c, type: 3}
+  - {fileID: 21300000, guid: 81cbb08105482164790cea14316df619, type: 3}
+  - {fileID: 21300000, guid: e1433ef117d340f4a8ad30e560c86949, type: 3}
+  - {fileID: 21300000, guid: ecc089222c8842540a027c7dd5d1681f, type: 3}
+  - {fileID: 21300000, guid: c1edf172cd233fc4b96b381b94124190, type: 3}
+  - {fileID: 21300000, guid: 1808dd721e2c51447bca74d9d9125460, type: 3}
+  - {fileID: 21300000, guid: 2fe6bbb201d2c2c4f9fb51dec327a490, type: 3}
+  - {fileID: 21300000, guid: bb8996c229ade6140b860d716bda47ec, type: 3}
+  - {fileID: 21300000, guid: 9d1380733d0b41549b3a52637f22d80f, type: 3}
+  - {fileID: 21300000, guid: d47281933bb67a14cb0d2ccb5a16321c, type: 3}
+  - {fileID: 21300000, guid: c672e4b34358eb947bdac8e971411ae9, type: 3}
+  - {fileID: 21300000, guid: f104ea444990a6e4a990e62f430e68ee, type: 3}
+  - {fileID: 21300000, guid: a092fb64b9cdb0249b34a18c879ad811, type: 3}
+  - {fileID: 21300000, guid: 440c036589d6d94479275d53eb5c543c, type: 3}
+  - {fileID: 21300000, guid: 238298d686b7132499a2fb80b7a67a03, type: 3}
+  - {fileID: 21300000, guid: 343f38870a1df30489558b061c2088d6, type: 3}
+  - {fileID: 21300000, guid: c0ebd7b7622dd4b43b74242ad821ea35, type: 3}
+  - {fileID: 21300000, guid: 24cae6f71557e3a41aae12b7382177e2, type: 3}
+  - {fileID: 21300000, guid: b9733538cb5b5e144a5b7bdeaa2a553b, type: 3}
+  - {fileID: 21300000, guid: b461eb78fbc2b3c4a9e06766f4af2dcf, type: 3}
+  - {fileID: 21300000, guid: 686988d869547bd46965a49d0838d74d, type: 3}
+  - {fileID: 21300000, guid: 3a7e3e19c555f2245b7271e07d9998e4, type: 3}
+  - {fileID: 21300000, guid: 0d753049d17802d4aaac085d7438d6b0, type: 3}
+  - {fileID: 21300000, guid: b04f7f79ec12a5e4fb4300f23b84c640, type: 3}
+  - {fileID: 21300000, guid: fe466ba92d95172469d02f39e5338383, type: 3}
+  - {fileID: 21300000, guid: 06cfc76ad9ae6c24289c4681ff7cd0ff, type: 3}
+  - {fileID: 21300000, guid: d791c22bfcab9cd44b7c73d71f8d6a23, type: 3}
+  - {fileID: 21300000, guid: 7e35562b7337ca649bbfa66580eae4b7, type: 3}
+  - {fileID: 21300000, guid: 2056ac9b4da0f2e4e81f6d3170f61937, type: 3}
+  - {fileID: 21300000, guid: e15596ec8fe25e44ab79a624850b6357, type: 3}
+  - {fileID: 21300000, guid: 2696d25d24472e949b74466fcc401345, type: 3}
+  - {fileID: 21300000, guid: cd7dd6ad8c2ab814aa4d9f10b4b3937a, type: 3}
+  - {fileID: 21300000, guid: ece053bd1cdb37f408e0ac00ae664257, type: 3}
+  - {fileID: 21300000, guid: d12f08dda44e156408075f9c9e45779b, type: 3}
+  - {fileID: 21300000, guid: 4079de1ed040f4043a2b00dad4c1c99a, type: 3}
+  - {fileID: 21300000, guid: f394b8ff63b3d0e44977e2c33a558e83, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Player_Scratch_South_03
+  - Player_Scratch_North_01
+  - Player_Walk_South_06
+  - Player_Scratch_North_04
+  - Player_East_Walk03
+  - Player_East_Walk01
+  - Player_Action_East
+  - Player_Scratch_South_02
+  - Player_Talking_South1
+  - Player_Still_South
+  - Player_Walk_North_03
+  - Player_East_Walk02
+  - Player_Walk_North_04
+  - Player_Still_North
+  - Player_Walk_North_06
+  - Player_Scratch_North_03
+  - Player_Walk_South_04
+  - Player_Walk_North_01
+  - Player_Walk_North_05
+  - Player_Scratch_East_04
+  - Player_East_Walk04
+  - Player_Still_East
+  - Player_East_Walk06
+  - Player_Walk_South_05
+  - Player_Walk_North_02
+  - Player_Talking_East1
+  - Player_Action_North
+  - Player_Talking_South2
+  - Player_East_Walk05
+  - Player_Scratch_South_01
+  - Player_Walk_South_03
+  - Player_Scratch_East_03
+  - Player_Walk_South_01
+  - Player_Walk_South_02
+  - Player_Scratch_East_01
+  - Player_Scratch_East_02
+  - Player_Scratch_South_04
+  - Player_Talking_East2
+  - Player_Scratch_North_02
+  m_RenderDataMap: {}
+  m_Tag: Player
+  m_IsVariant: 0

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrandmaHouse
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 50d4aa6efc6bc094cb3ae9910982abeb, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 56e4b2d01a7f3e04f9fbdbdfe8513d55, type: 3}
+  - {fileID: 21300000, guid: 27fa7d6354b09254bbd2e66a1ded5d1c, type: 3}
+  - {fileID: 21300000, guid: 6d8dcfb79ee9a554583fa494826c0d5f, type: 3}
+  - {fileID: 21300000, guid: 0d6cb129ae381d74098c685729714121, type: 3}
+  - {fileID: 21300000, guid: dde67f0bb88b63f45aa343b58932c13d, type: 3}
+  - {fileID: 21300000, guid: c6810c8b7cdd4cb4eb6a1fe384931197, type: 3}
+  - {fileID: 21300000, guid: 501d6bbb56cc3d54cb6eb793c020c56c, type: 3}
+  - {fileID: 21300000, guid: 0df11b8eb4fcc9d4b8ca01f40e56d65f, type: 3}
+  - {fileID: 21300000, guid: 7e126a9e0c27b3440bab1961e58bd188, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bell_Right
+  - Door_Closed
+  - Door_Open
+  - Bush
+  - Tree
+  - Bell
+  - Background
+  - Bell_Left
+  - Door_Overlay
+  m_RenderDataMap: {}
+  m_Tag: GrandmaHouse
+  m_IsVariant: 0

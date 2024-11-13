@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grandma
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 24ea5f154bdbf334b9401ebe58578d0a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d97c331034256cf42b159e584bc9d2d9, type: 3}
+  - {fileID: 21300000, guid: 76a487400aefe604eb81eae04afd94b9, type: 3}
+  - {fileID: 21300000, guid: 6dd002419e6c7de42be6353d8f31e546, type: 3}
+  - {fileID: 21300000, guid: 7b77e9e1262b3ed4dbaf0b99601c3a51, type: 3}
+  - {fileID: 21300000, guid: 04a960c2ee7fad14cb4ba4c2825bc661, type: 3}
+  - {fileID: 21300000, guid: 190031d2866ec2545bbbbd9de3f20e89, type: 3}
+  - {fileID: 21300000, guid: 09ed74d2c3e14db4b9a4b8b3893caae1, type: 3}
+  - {fileID: 21300000, guid: 5338d0e2839192444b5a6cf4395c77e4, type: 3}
+  - {fileID: 21300000, guid: a00366b32839f7d478ae3abf65ae8ae3, type: 3}
+  - {fileID: 21300000, guid: f5a819c3131d5ec4eafd4ed2d93b6bf0, type: 3}
+  - {fileID: 21300000, guid: 4b528404a71cc854580adbfa2c05471c, type: 3}
+  - {fileID: 21300000, guid: f1081544611ab1042be92b1d5feea564, type: 3}
+  - {fileID: 21300000, guid: 2ceb7bd4159b6b740bc23c857ce9ae1e, type: 3}
+  - {fileID: 21300000, guid: 34994af4e70a1d84d880c2246bdea511, type: 3}
+  - {fileID: 21300000, guid: bc2eca057d6a55c46b5ef6b3fad39f03, type: 3}
+  - {fileID: 21300000, guid: 66416d05cf0942149bd7d3f61cd0ff97, type: 3}
+  - {fileID: 21300000, guid: 37d97085030974a45b45d37b2d3d66e4, type: 3}
+  - {fileID: 21300000, guid: bf8fd38532bb22448bff385b419ec750, type: 3}
+  - {fileID: 21300000, guid: 0cb12c065c4dd104ca639413a5af5f45, type: 3}
+  - {fileID: 21300000, guid: 445049663ad3f334290cd00f1dd6a7f9, type: 3}
+  - {fileID: 21300000, guid: f824e7c64daa40646bef48b1f9dbf8f7, type: 3}
+  - {fileID: 21300000, guid: 6c44b707ee4638e4a863b2a4d32f50b8, type: 3}
+  - {fileID: 21300000, guid: 5ba71277fe2e1b043b6e119ee80ff245, type: 3}
+  - {fileID: 21300000, guid: aae134c724519a94ca1dd62bbbf941f4, type: 3}
+  - {fileID: 21300000, guid: a6c0d9c7bcee4524a9c01a65b100916f, type: 3}
+  - {fileID: 21300000, guid: f70a6ac7604766347a3a2f1f79c38cdf, type: 3}
+  - {fileID: 21300000, guid: 427c80081bb06c24189217ec510f7581, type: 3}
+  - {fileID: 21300000, guid: 090648a8a4e1ff948877474e7cfa70d2, type: 3}
+  - {fileID: 21300000, guid: d06304f86b5f749409b4097876c21ff0, type: 3}
+  - {fileID: 21300000, guid: a0ccfa094efa90e4da7eabadec842363, type: 3}
+  - {fileID: 21300000, guid: 248d81a9adc530e4d8fc0aae080de4d8, type: 3}
+  - {fileID: 21300000, guid: 57a5fcf9943d85245b22d5eabb9d408a, type: 3}
+  - {fileID: 21300000, guid: 99a9232a95ab08e4a81e7534decf3255, type: 3}
+  - {fileID: 21300000, guid: 4cd6c73a5bed67e439975dce1d36dd5a, type: 3}
+  - {fileID: 21300000, guid: 0323995a16350f54fb038a4930dcd2bc, type: 3}
+  - {fileID: 21300000, guid: cac2706a75bfb034db7536392f43279e, type: 3}
+  - {fileID: 21300000, guid: c9813c6a4535ac4429bad82192500d14, type: 3}
+  - {fileID: 21300000, guid: 1b3b7cdaee361ca42af49e38f6e01d84, type: 3}
+  - {fileID: 21300000, guid: e8cff6bbe109ff240b393ccb5032f0eb, type: 3}
+  - {fileID: 21300000, guid: 79177eebe44befa4281ba3299cf21cdc, type: 3}
+  - {fileID: 21300000, guid: 31ef8f0db5253f14bab1cd7ac5521df9, type: 3}
+  - {fileID: 21300000, guid: 3269ea4d3b5b0eb47b5a322f675ee256, type: 3}
+  - {fileID: 21300000, guid: d00e33eda57f886439d500c502d3e516, type: 3}
+  - {fileID: 21300000, guid: 77ae1a1ea0042b94aa6fdcf45b7e6200, type: 3}
+  - {fileID: 21300000, guid: ae2542dec2cac154aa994bd8800d1be5, type: 3}
+  - {fileID: 21300000, guid: 37d20efec275c1b43871c1e911d10104, type: 3}
+  - {fileID: 21300000, guid: d3e0872f18e4aad419285151616f3981, type: 3}
+  - {fileID: 21300000, guid: 03262d4f3552a774182752afdfa6bacd, type: 3}
+  - {fileID: 21300000, guid: 7ebc125f8eeeab740a127d047328b08e, type: 3}
+  - {fileID: 21300000, guid: 754fbc7f4585d6544871e1af39388000, type: 3}
+  - {fileID: 21300000, guid: 5d149c8f8dca3af4cb03f1c6ed7a1b77, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Grandma_Walk_South_08
+  - Grandma_Talking_South_03
+  - Grandma_Still_South
+  - Grandma_Drinking_04
+  - Grandma_Talking_Seated_01
+  - Grandma_Sitting_01
+  - Grandma_Walk_East_07
+  - Grandma_Talking_Seated_04
+  - Grandma_Talking_Seated_03
+  - Grandma_Drinking_01
+  - Grandma_Walk_East_04
+  - Grandma_Walk_East_02
+  - Grandma_Sitting_02
+  - Grandma_Walk_South_01
+  - Grandma_Still_East
+  - Grandma_Walk_East_01
+  - Grandma_Walking_North_06
+  - Grandma_Talking_East_02
+  - Grandma_Walk_South_05
+  - Grandma_Talking_South_01
+  - Grandma_Walk_East_03
+  - Grandma_Drinking_03
+  - Grandma_Walk_East_05
+  - Grandma_Talking_East_04
+  - Grandma_Talking_Seated_02
+  - Grandma_Drinking_05
+  - Grandma_Walk_East_08
+  - Grandma_Action_North
+  - Grandma_Walking_North_01
+  - Grandma_Talking_East_01
+  - Grandma_Sitting_03
+  - Grandma_Drinking_02
+  - Grandma_Talking_East_03
+  - Grandma_Walk_East_06
+  - Grandma_Sitting_04
+  - Grandma_Still_North
+  - Grandma_Walking_North_05
+  - Grandma_Walk_South_06
+  - Grandma_Walking_North_07
+  - Grandma_Walking_North_08
+  - Grandma_Talking_South_04
+  - Grandma_Walking_North_02
+  - Grandma_Walk_South_02
+  - Grandma_Walking_North_04
+  - Grandma_Walk_South_03
+  - Grandma_Walk_South_07
+  - Grandma_Drinking_06
+  - Grandma_Sitting_05
+  - Grandma_Walking_North_03
+  - Grandma_Talking_South_02
+  - Grandma_Walk_South_04
+  m_RenderDataMap: {}
+  m_Tag: Grandma
+  m_IsVariant: 0

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3005e27f7f31497ea478cce38355ac44, type: 3}
+  m_Name: FontReplacements
+  m_EditorClassIdentifier: 
+  replacements:
+  - locale: jp
+    original: {fileID: 12800000, guid: 95245bdfd540d8a488e80087d96bfe59, type: 3}
+    fontOverride:
+      font: {fileID: 12800000, guid: ea36dfd984aedc64dbcbbb1b00dd5675, type: 3}
+      fontStyle: 0
+      sizeFactor: 0.75
+  - locale: jp
+    original: {fileID: 12800000, guid: 1153c7e59ee417d4281a205cccc9d965, type: 3}
+    fontOverride:
+      font: {fileID: 12800000, guid: ea36dfd984aedc64dbcbbb1b00dd5675, type: 3}
+      fontStyle: 1
+      sizeFactor: 0.75
+  - locale: jp
+    original: {fileID: 12800000, guid: 941e1783ef5d0d74990e0e3a64bc384d, type: 3}
+    fontOverride:
+      font: {fileID: 12800000, guid: ea36dfd984aedc64dbcbbb1b00dd5675, type: 3}
+      fontStyle: 1
+      sizeFactor: 1
+  - locale: jp
+    original: {fileID: 12800000, guid: 702b447f631578f4e8b61ff2ee42dfb4, type: 2}
+    fontOverride:
+      font: {fileID: 12800000, guid: a77efa834ee520e4187d86e3897ea48f, type: 2}
+      fontStyle: 0
+      sizeFactor: 0.65
+  - locale: jp
+    original: {fileID: 12800000, guid: b777e2d4931523149b052600fdb03ff1, type: 3}
+    fontOverride:
+      font: {fileID: 12800000, guid: 7cd366b91a33ddf41bc742e3aec02188, type: 3}
+      fontStyle: 0
+      sizeFactor: 1
+  - locale: jp
+    original: {fileID: 12800000, guid: dbb3e8cbb88cf8a45bfbc50d8efbc9ac, type: 3}
+    fontOverride:
+      font: {fileID: 12800000, guid: e96cca14e7acdc84e8028007a8ae68ce, type: 3}
+      fontStyle: 1
+      sizeFactor: 0.9
+  tmpReplacements:
+  - locale: jp
+    original: {fileID: 11400000, guid: d495595fe4bc0cc489740546dd02966a, type: 2}
+    fontOverride:
+      font: {fileID: 11400000, guid: 3214793c63a4bbd44b1f24331a7e813d, type: 2}
+      style: 1
+      sizeFactor: 0.9
+  - locale: jp
+    original: {fileID: 11400000, guid: 75412e576cb8e4549b53dbe1f043e8dd, type: 2}
+    fontOverride:
+      font: {fileID: 11400000, guid: 108f0a772f4b21b41b65fb154053ba05, type: 2}
+      style: 0
+      sizeFactor: 1

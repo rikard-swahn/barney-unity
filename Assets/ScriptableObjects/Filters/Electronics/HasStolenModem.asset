@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d4f845d9b15a04cb967c22f32c2f92, type: 3}
+  m_Name: HasStolenModem
+  m_EditorClassIdentifier: 
+  filters:
+  - {fileID: 11400000, guid: 114c2d42badb59a42852b8ea5d7ca9d1, type: 2}
+  - {fileID: 11400000, guid: 673ca035a92aeca42a632fcf6555cc70, type: 2}
